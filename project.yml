@@ -1,0 +1,157 @@
+name: NutritionDiary
+configs:
+  Debug: debug
+  Release: release
+  DeviceTest: debug
+options:
+  bundleIdPrefix: com.lyonzhu
+  deploymentTarget:
+    iOS: "27.0"
+    macOS: "15.0"
+  developmentLanguage: zh-Hans
+  knownRegions:
+    - zh-Hans
+    - en
+  createIntermediateGroups: true
+  postGenCommand: python3 Scripts/patch_project_capabilities.py
+  groupSortPosition: top
+packages:
+  NutritionKit:
+    path: Packages/NutritionKit
+settings:
+  base:
+    SWIFT_VERSION: "6.0"
+    SWIFT_STRICT_CONCURRENCY: complete
+    DEVELOPMENT_TEAM: ZRY7UHFY75
+    MARKETING_VERSION: "1.3.1"
+    CURRENT_PROJECT_VERSION: "31"
+targets:
+  NutritionDiary-iOS:
+    type: application
+    platform: iOS
+    deploymentTarget: "27.0"
+    sources:
+      - path: Apps/Shared
+      - path: Apps/iOS
+    dependencies:
+      - package: NutritionKit
+        product: NutritionKit
+    info:
+      path: Apps/iOS/Info.plist
+      properties:
+        CFBundleDisplayName: 饮食营养记录
+        CFBundleDevelopmentRegion: zh-Hans
+        CFBundleLocalizations:
+          - zh-Hans
+          - en
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        LSRequiresIPhoneOS: true
+        NSCameraUsageDescription: 用于拍摄餐食照片并在设备端分析；只有你在每次确认后选择 DeepSeek 时，照片才会发送到云端。
+        NSPhotoLibraryUsageDescription: 用于选择餐食照片并在设备端分析；只有你在每次确认后选择 DeepSeek 时，照片才会发送到云端。
+        NSHealthShareUsageDescription: 读取 Apple Watch 的活动与静息能量，用于计算每日热量平衡。
+        NSHealthUpdateUsageDescription: 将确认后的膳食能量和营养写入“健康”App。
+        UIApplicationSceneManifest:
+          UIApplicationSupportsMultipleScenes: false
+        UILaunchScreen:
+          UIColorName: LaunchBackground
+          UIImageName: LaunchCover
+          UIImageRespectsSafeAreaInsets: true
+        UISupportedInterfaceOrientations:
+          - UIInterfaceOrientationPortrait
+        UTExportedTypeDeclarations:
+          - UTTypeIdentifier: com.lyonzhu.NutritionDiary.diary-entry
+            UTTypeDescription: Nutrition Diary entry
+            UTTypeConformsTo:
+              - public.data
+    settings:
+      configs:
+        Debug:
+          CODE_SIGN_ENTITLEMENTS: Apps/iOS/NutritionDiary-Development.entitlements
+        Release:
+          CODE_SIGN_ENTITLEMENTS: Apps/iOS/NutritionDiary-Production.entitlements
+        DeviceTest:
+          CODE_SIGN_ENTITLEMENTS: Apps/iOS/NutritionDiary-DeviceTest.entitlements
+          SWIFT_ACTIVE_COMPILATION_CONDITIONS: "$(inherited) DEVICE_TEST"
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.lyonzhu.NutritionDiary
+        PRODUCT_NAME: 饮食营养记录
+        TARGETED_DEVICE_FAMILY: "1"
+        SUPPORTS_MACCATALYST: NO
+        ASSETCATALOG_COMPILER_ACCENT_COLOR_NAME: AccentColor
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        CODE_SIGN_STYLE: Automatic
+
+  NutritionDiary-iOS-UITests:
+    type: bundle.ui-testing
+    platform: iOS
+    deploymentTarget: "27.0"
+    sources:
+      - path: Apps/iOSUITests
+    dependencies:
+      - target: NutritionDiary-iOS
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.lyonzhu.NutritionDiaryUITests
+        TEST_TARGET_NAME: NutritionDiary-iOS
+        GENERATE_INFOPLIST_FILE: YES
+        CODE_SIGN_STYLE: Automatic
+
+  NutritionDiary-macOS:
+    type: application
+    platform: macOS
+    deploymentTarget: "15.0"
+    sources:
+      - path: Apps/Shared
+      - path: Apps/macOS
+    dependencies:
+      - package: NutritionKit
+        product: NutritionKit
+    info:
+      path: Apps/macOS/Info.plist
+      properties:
+        CFBundleDisplayName: 饮食营养记录
+        CFBundleDevelopmentRegion: zh-Hans
+        CFBundleLocalizations:
+          - zh-Hans
+          - en
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        LSApplicationCategoryType: public.app-category.healthcare-fitness
+        UTExportedTypeDeclarations:
+          - UTTypeIdentifier: com.lyonzhu.NutritionDiary.diary-entry
+            UTTypeDescription: Nutrition Diary entry
+            UTTypeConformsTo:
+              - public.data
+    settings:
+      configs:
+        Debug:
+          CODE_SIGN_ENTITLEMENTS: Apps/macOS/NutritionDiary-Development.entitlements
+        Release:
+          CODE_SIGN_ENTITLEMENTS: Apps/macOS/NutritionDiary-Production.entitlements
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.lyonzhu.NutritionDiary.mac
+        PRODUCT_NAME: 饮食营养记录
+        ASSETCATALOG_COMPILER_ACCENT_COLOR_NAME: AccentColor
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        CODE_SIGN_STYLE: Automatic
+schemes:
+  NutritionDiary-iOS:
+    build:
+      targets:
+        NutritionDiary-iOS: all
+    run:
+      config: Debug
+    test:
+      config: Debug
+      targets:
+        - name: NutritionDiary-iOS-UITests
+
+  NutritionDiary-macOS:
+    build:
+      targets:
+        NutritionDiary-macOS: all
+    run:
+      config: Debug
+    test:
+      config: Debug

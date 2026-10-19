@@ -1,0 +1,2906 @@
+{
+  "sourceLanguage": "zh-Hans",
+  "strings": {
+    "API Key 已保存": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "API key saved"
+          }
+        }
+      }
+    },
+    "Apple Intelligence 尚未开启。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Intelligence is turned off."
+          }
+        }
+      }
+    },
+    "Apple Watch 或健康数据不完整，热量平衡暂为部分结果": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple Watch or health data is incomplete; energy balance is currently partial"
+          }
+        }
+      }
+    },
+    "Apple 本机照片识别不上传照片": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple on-device photo recognition does not upload photos"
+          }
+        }
+      }
+    },
+    "Apple 本机识别不上传照片。DeepSeek 识别仅在每次确认后发送照片，App 不保留云端副本。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple on-device recognition does not upload photos. DeepSeek receives photos only after each confirmation, and the app does not retain a cloud copy."
+          }
+        }
+      }
+    },
+    "Apple 本机识别不可用": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple on-device recognition unavailable"
+          }
+        }
+      }
+    },
+    "Apple 端侧模型尚未准备完成。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The Apple on-device model is not ready yet."
+          }
+        }
+      }
+    },
+    "Apple 端侧照片识别不可用。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apple on-device photo recognition is unavailable."
+          }
+        }
+      }
+    },
+    "CSV 导入预览": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CSV import preview"
+          }
+        }
+      }
+    },
+    "CSV 支持稳定营养代码，例如 energy_kcal、protein_g、calcium_mg。导入前会显示未知列、重复项和单位错误。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CSV supports stable nutrient codes such as energy_kcal, protein_g, and calcium_mg. Unknown columns, duplicates, and unit errors are shown before import."
+          }
+        }
+      }
+    },
+    "DeepSeek 仅在每次确认后接收所选照片": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "DeepSeek receives selected photos only after each confirmation"
+          }
+        }
+      }
+    },
+    "DeepSeek 只用于识别菜品、份量和营养标签文字。每次分析前都会确认照片上传，API 费用由你的账户承担。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "DeepSeek is used only to recognize dishes, portions, and nutrition-label text. Photo upload is confirmed before every analysis, and API charges are billed to your account."
+          }
+        }
+      }
+    },
+    "DeepSeek 照片识别": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "DeepSeek photo recognition"
+          }
+        }
+      }
+    },
+    "DeepSeek 营养标签识别": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "DeepSeek nutrition-label recognition"
+          }
+        }
+      }
+    },
+    "DeepSeek 识别": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "DeepSeek recognition"
+          }
+        }
+      }
+    },
+    "English category": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "English category"
+          }
+        }
+      }
+    },
+    "English name": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "English name"
+          }
+        }
+      }
+    },
+    "HealthKit 写入仅在 iPhone 上进行": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HealthKit writes occur only on iPhone"
+          }
+        }
+      }
+    },
+    "HealthKit 当前不可用": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HealthKit is unavailable"
+          }
+        }
+      }
+    },
+    "JSON 不包含本地餐食原图。照片保留在拍摄设备的 App 沙盒中。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "JSON does not include local meal photos. Photos remain in the app sandbox on the capturing device."
+          }
+        }
+      }
+    },
+    "JSON 不包含本地餐食原图；媒体备份 ZIP 同时包含 JSON 和本地照片。DeepSeek Key、HealthKit 原始数据和 iCloud 凭据不会进入备份。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "JSON excludes original meal photos. The media ZIP includes JSON and local photos. DeepSeek keys, raw HealthKit data, and iCloud credentials are never included."
+          }
+        }
+      }
+    },
+    "Key 只保存在本机 Keychain，不进入 iCloud Keychain、日志、备份或版本归档。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The key is stored only in the local Keychain and is excluded from iCloud Keychain, logs, backups, and release archives."
+          }
+        }
+      }
+    },
+    "Mac 可查看同步后的营养条目和热量平衡。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mac can view synced nutrition entries and energy balance."
+          }
+        }
+      }
+    },
+    "Mac 查看 iPhone 通过 CloudKit 同步的每日活动、静息和总消耗汇总。当前构建尚未配置真实 CloudKit 容器时，数据仅保存在本机。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mac displays daily active, resting, and total burn summaries synced from iPhone through CloudKit. Until a live CloudKit container is configured, data remains on this device."
+          }
+        }
+      }
+    },
+    "Open Food Facts 依 ODbL 归属使用": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open Food Facts is used with ODbL attribution"
+          }
+        }
+      }
+    },
+    "USDA FoodData Central 公共领域种子数据": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "USDA FoodData Central public-domain seed data"
+          }
+        }
+      }
+    },
+    "iCloud 同步": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iCloud Sync"
+          }
+        }
+      }
+    },
+    "iCloud 账号已变化。确认前不会上传上一账号的数据，也不会自动合并到新账号。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your iCloud account changed. Nothing is uploaded or merged into the new account until you confirm."
+          }
+        }
+      }
+    },
+    "一张餐食照片的结构化分析": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Structured analysis of a meal photo"
+          }
+        }
+      }
+    },
+    "不完整": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Incomplete"
+          }
+        }
+      }
+    },
+    "中文分类": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chinese category"
+          }
+        }
+      }
+    },
+    "中文名称": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chinese name"
+          }
+        }
+      }
+    },
+    "中文名称为本地机器翻译，建议对照英文原名核对。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The Chinese name is machine translated locally. Verify it against the original English name."
+          }
+        }
+      }
+    },
+    "中文名称来源": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chinese-name source"
+          }
+        }
+      }
+    },
+    "产品": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Product"
+          }
+        }
+      }
+    },
+    "产品名": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Product name"
+          }
+        }
+      }
+    },
+    "人工审核名称": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Curated names"
+          }
+        }
+      }
+    },
+    "仅删除记录": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete entry only"
+          }
+        }
+      }
+    },
+    "仅测试当前 Key": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test current key only"
+          }
+        }
+      }
+    },
+    "今天": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Today"
+          }
+        }
+      }
+    },
+    "今日": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Today"
+          }
+        }
+      }
+    },
+    "今日餐次": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Today’s meals"
+          }
+        }
+      }
+    },
+    "从照片库选择": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose from library"
+          }
+        }
+      }
+    },
+    "份": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "servings"
+          }
+        }
+      }
+    },
+    "份数": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Servings"
+          }
+        }
+      }
+    },
+    "份量": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Portion"
+          }
+        }
+      }
+    },
+    "估算": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estimated"
+          }
+        }
+      }
+    },
+    "使用 Apple 本机识别": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use Apple on-device recognition"
+          }
+        }
+      }
+    },
+    "使用 CKSyncEngine 和私有自定义 Zone 同步日记、自定义食物、复合食物、每日能量汇总与目标。照片、DeepSeek Key、健康和语言偏好不进入 CloudKit。离线修改保留在本机并等待下一次同步。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CKSyncEngine and a private custom zone sync diary entries, custom foods, composite foods, daily energy summaries, and goals. Photos, the DeepSeek key, health data, and language preferences never enter CloudKit. Offline changes stay on this device and wait for the next sync."
+          }
+        }
+      }
+    },
+    "使用 DeepSeek 识别": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recognize with DeepSeek"
+          }
+        }
+      }
+    },
+    "保存": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Save"
+          }
+        }
+      }
+    },
+    "保存到": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Save to"
+          }
+        }
+      }
+    },
+    "保存失败": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Save failed"
+          }
+        }
+      }
+    },
+    "保存并测试": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Save and test"
+          }
+        }
+      }
+    },
+    "保存并记录": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Save and log"
+          }
+        }
+      }
+    },
+    "保存目标": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Save target"
+          }
+        }
+      }
+    },
+    "健康与 Apple Watch": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Health & Apple Watch"
+          }
+        }
+      }
+    },
+    "健康权限已请求，正在读取": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Health permission requested; loading"
+          }
+        }
+      }
+    },
+    "健康消耗明细": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Health burn details"
+          }
+        }
+      }
+    },
+    "健康状态": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Health status"
+          }
+        }
+      }
+    },
+    "允许把照片估算值写入 Health": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Allow photo estimates to be written to Health"
+          }
+        }
+      }
+    },
+    "先拍一张全景，再补充近景。识别只提供菜品、份量或标签信息，必须由你确认后才计入营养。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Take a full view first, then close-ups. Recognition only suggests dishes, portions, or label information; nothing counts until you confirm it."
+          }
+        }
+      }
+    },
+    "克": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "g"
+          }
+        }
+      }
+    },
+    "克数": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weight in grams"
+          }
+        }
+      }
+    },
+    "克数 / 毫升": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weight / Volume"
+          }
+        }
+      }
+    },
+    "关于": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "About"
+          }
+        }
+      }
+    },
+    "出现错误": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "An error occurred"
+          }
+        }
+      }
+    },
+    "分类": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Category"
+          }
+        }
+      }
+    },
+    "分钟": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "min"
+          }
+        }
+      }
+    },
+    "删除": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete"
+          }
+        }
+      }
+    },
+    "删除已保存 Key": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete saved key"
+          }
+        }
+      }
+    },
+    "删除本地数据库和照片并重建": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete local database and photos, then rebuild"
+          }
+        }
+      }
+    },
+    "删除本机与 iCloud 数据": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete Local and iCloud Data"
+          }
+        }
+      }
+    },
+    "删除本机与 iCloud 数据？": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete Local and iCloud Data?"
+          }
+        }
+      }
+    },
+    "删除本机数据": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete local data"
+          }
+        }
+      }
+    },
+    "删除本机数据？": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete local data?"
+          }
+        }
+      }
+    },
+    "删除饮食记录": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete food entry"
+          }
+        }
+      }
+    },
+    "刷新": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Refresh"
+          }
+        }
+      }
+    },
+    "包装营养标签识别需要配置 DeepSeek Vision": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Packaged nutrition-label recognition requires DeepSeek Vision"
+          }
+        }
+      }
+    },
+    "包装食品": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Packaged food"
+          }
+        }
+      }
+    },
+    "包装食品在线数据使用 ODbL；需要保留归属，公开分发改编数据库时须遵守相同方式共享。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Online packaged-food data uses ODbL. Attribution is required, and adapted databases distributed publicly must use the same license."
+          }
+        }
+      }
+    },
+    "匹配食物": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Matched food"
+          }
+        }
+      }
+    },
+    "历史": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "History"
+          }
+        }
+      }
+    },
+    "发送照片到 DeepSeek？": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send photos to DeepSeek?"
+          }
+        }
+      }
+    },
+    "取消": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancel"
+          }
+        }
+      }
+    },
+    "只删除当前设备的饮食记录、自定义食物、目标、汇总、冲突副本和本地照片；Health App 中已写入的膳食样本不会自动删除。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deletes meal records, custom foods, goals, summaries, conflict copies, and local photos on this device only. Dietary samples already written to Apple Health are not deleted automatically."
+          }
+        }
+      }
+    },
+    "可导入食物": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Importable foods"
+          }
+        }
+      }
+    },
+    "可改用 DeepSeek 云端识别，照片只会在你每次确认后上传。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You can use DeepSeek cloud recognition; photos are uploaded only after your confirmation each time."
+          }
+        }
+      }
+    },
+    "可食比例": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Edible ratio"
+          }
+        }
+      }
+    },
+    "台湾 FDA 数据采用政府资料开放授权条款；USDA FoodData Central 数据为公共领域。App 只读使用打包目录，不上传查询内容。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Taiwan FDA data uses the Open Government Data License; USDA FoodData Central data is public domain. The app reads the bundled catalog locally and does not upload queries."
+          }
+        }
+      }
+    },
+    "台湾参考名称": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Taiwan reference names"
+          }
+        }
+      }
+    },
+    "合并恢复": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Merge restore"
+          }
+        }
+      }
+    },
+    "合并恢复会保留较新的本机记录并将冲突写入冲突副本；完整替换会先删除当前设备上的饮食数据。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Merge keeps newer local records and writes conflicts to conflict copies. Full replacement first deletes dietary data on this device."
+          }
+        }
+      }
+    },
+    "同时删除本地照片": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete local photos too"
+          }
+        }
+      }
+    },
+    "同步": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sync"
+          }
+        }
+      }
+    },
+    "名称": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Name"
+          }
+        }
+      }
+    },
+    "名称，例如自制牛奶巧克力": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Name, such as homemade milk chocolate"
+          }
+        }
+      }
+    },
+    "启动失败": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Startup failed"
+          }
+        }
+      }
+    },
+    "品牌": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Brand"
+          }
+        }
+      }
+    },
+    "在线补充来源": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Online supplemental sources"
+          }
+        }
+      }
+    },
+    "基准": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reference"
+          }
+        }
+      }
+    },
+    "基准单位": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reference unit"
+          }
+        }
+      }
+    },
+    "基本信息": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Basic information"
+          }
+        }
+      }
+    },
+    "备份与恢复": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Backup & Restore"
+          }
+        }
+      }
+    },
+    "复合食物": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Composite food"
+          }
+        }
+      }
+    },
+    "好": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OK"
+          }
+        }
+      }
+    },
+    "存在缺失营养": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Missing nutrients"
+          }
+        }
+      }
+    },
+    "完成": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Done"
+          }
+        }
+      }
+    },
+    "完整替换本机数据": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Replace all local data"
+          }
+        }
+      }
+    },
+    "完整版本": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Full version"
+          }
+        }
+      }
+    },
+    "家庭份量": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Household portion"
+          }
+        }
+      }
+    },
+    "导入": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Import"
+          }
+        }
+      }
+    },
+    "导入 CSV 食物数据": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Import CSV food data"
+          }
+        }
+      }
+    },
+    "导入中…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Importing…"
+          }
+        }
+      }
+    },
+    "导入摘要": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Import summary"
+          }
+        }
+      }
+    },
+    "导出含照片媒体备份 ZIP": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Export media backup ZIP"
+          }
+        }
+      }
+    },
+    "导出完整 JSON 备份": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Export full JSON backup"
+          }
+        }
+      }
+    },
+    "导出每日记录 CSV": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Export daily entries as CSV"
+          }
+        }
+      }
+    },
+    "将按可食部克数记录。最终营养由本地目录确定性计算。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The entry uses edible grams. Final nutrition is calculated deterministically from the local catalog."
+          }
+        }
+      }
+    },
+    "尚无健康消耗数据": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No health burn data"
+          }
+        }
+      }
+    },
+    "尚未授权健康数据，请在设置中连接健康": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Health access has not been authorized. Connect it in Settings."
+          }
+        }
+      }
+    },
+    "尚未授权读取健康数据": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Health data access has not been authorized"
+          }
+        }
+      }
+    },
+    "尚未读取到健康来源。请在设置中授权或检查 Apple Watch 是否已同步到 Health。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No health sources have been read. Authorize access in Settings or check whether Apple Watch data has synced to Health."
+          }
+        }
+      }
+    },
+    "尚未连接健康数据": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Health data not connected"
+          }
+        }
+      }
+    },
+    "已授权，但暂无健康数据": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Authorized, but no health data is available"
+          }
+        }
+      }
+    },
+    "平衡目标": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Balance target"
+          }
+        }
+      }
+    },
+    "应用内语言切换会立即生效；系统权限弹窗和主屏幕名称跟随设备语言。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The in-app language changes immediately. System permission prompts and the Home Screen name follow the device language."
+          }
+        }
+      }
+    },
+    "当前内置 121 项公开授权食物、120 项中式复合菜，并包含本地自定义和复合食物。搜索支持中文名称、英文名称、别名与拼音。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The offline catalog includes licensed foods plus local custom and composite foods. Search supports Chinese and English names and aliases."
+          }
+        }
+      }
+    },
+    "当前平台不可用": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unavailable on this platform"
+          }
+        }
+      }
+    },
+    "当前设备或系统环境不支持 Apple Intelligence。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This device or system environment does not support Apple Intelligence."
+          }
+        }
+      }
+    },
+    "当前设备无法访问 HealthKit": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HealthKit is unavailable on this device"
+          }
+        }
+      }
+    },
+    "当前语言暂不受端侧模型支持。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The on-device model does not support the selected language."
+          }
+        }
+      }
+    },
+    "当天记录": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Daily entries"
+          }
+        }
+      }
+    },
+    "录入方式": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Input method"
+          }
+        }
+      }
+    },
+    "总平衡": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Total balance"
+          }
+        }
+      }
+    },
+    "总消耗": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Total burn"
+          }
+        }
+      }
+    },
+    "总热量平衡": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Total energy balance"
+          }
+        }
+      }
+    },
+    "恢复 JSON 备份": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restore JSON backup"
+          }
+        }
+      }
+    },
+    "恢复媒体备份 ZIP": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restore media backup ZIP"
+          }
+        }
+      }
+    },
+    "恢复完成": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restore complete"
+          }
+        }
+      }
+    },
+    "成品": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finished food"
+          }
+        }
+      }
+    },
+    "成品总重量": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finished weight"
+          }
+        }
+      }
+    },
+    "手表": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Watch"
+          }
+        }
+      }
+    },
+    "拍摄照片": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Take photo"
+          }
+        }
+      }
+    },
+    "拍照": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Photo"
+          }
+        }
+      }
+    },
+    "拍照记录": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Photo diary"
+          }
+        }
+      }
+    },
+    "拖动菜品到此餐次": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Drag food here"
+          }
+        }
+      }
+    },
+    "授权读取活动/静息能量并写入膳食营养": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Authorize activity/resting energy reads and dietary nutrition writes"
+          }
+        }
+      }
+    },
+    "搜索食材": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Search ingredients"
+          }
+        }
+      }
+    },
+    "搜索食物": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Search foods"
+          }
+        }
+      }
+    },
+    "搜索食物、别名": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Search foods and aliases"
+          }
+        }
+      }
+    },
+    "搜索食物、别名或菜品": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Search foods, aliases, or dishes"
+          }
+        }
+      }
+    },
+    "搜索食物或拍照开始记录。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Search for food or take a photo to start logging."
+          }
+        }
+      }
+    },
+    "摄入": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Intake"
+          }
+        }
+      }
+    },
+    "支持与问题反馈": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Support & Feedback"
+          }
+        }
+      }
+    },
+    "数据删除": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Data deletion"
+          }
+        }
+      }
+    },
+    "数据导出": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Data export"
+          }
+        }
+      }
+    },
+    "数据库大小": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Database size"
+          }
+        }
+      }
+    },
+    "数据来源与许可证": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Data sources and licenses"
+          }
+        }
+      }
+    },
+    "整体分析": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Overall analysis"
+          }
+        }
+      }
+    },
+    "整体置信度": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Overall confidence"
+          }
+        }
+      }
+    },
+    "新增 \\(summary.added) 项，更新 \\(summary.updated) 项，未变 \\(summary.unchanged) 项，冲突 \\(summary.conflicts) 项。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Added \\(summary.added), updated \\(summary.updated), unchanged \\(summary.unchanged), conflicts \\(summary.conflicts)."
+          }
+        }
+      }
+    },
+    "新建复合食物": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "New composite food"
+          }
+        }
+      }
+    },
+    "最后更新": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Last updated"
+          }
+        }
+      }
+    },
+    "最多 3 张照片将发送至 DeepSeek（deepseek-flash）。API 费用由你的账户承担；原图仍只保存在本机。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Up to 3 photos will be sent to DeepSeek (deepseek-flash). API charges are billed to your account; originals remain on this device."
+          }
+        }
+      }
+    },
+    "最多三张照片": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Up to three photos"
+          }
+        }
+      }
+    },
+    "未找到相关食物": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No matching foods"
+          }
+        }
+      }
+    },
+    "未知": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unknown"
+          }
+        }
+      }
+    },
+    "未知列：": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unknown columns:"
+          }
+        }
+      }
+    },
+    "未知错误": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unknown error"
+          }
+        }
+      }
+    },
+    "未自动匹配，请手动选择": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No automatic match; select manually"
+          }
+        }
+      }
+    },
+    "未识别到可确认的菜品": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No confirmable dishes were recognized"
+          }
+        }
+      }
+    },
+    "未读取到目录清单": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Catalog manifest unavailable"
+          }
+        }
+      }
+    },
+    "未配置": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not configured"
+          }
+        }
+      }
+    },
+    "本地保存": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Saved locally"
+          }
+        }
+      }
+    },
+    "本地数据库无法打开。现有文件不会被自动删除。可以先重试；只有确认后才允许重建本地数据库。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The local database could not be opened. Existing files are not deleted automatically. Retry first; rebuilding requires explicit confirmation."
+          }
+        }
+      }
+    },
+    "本地机器翻译": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Local machine translations"
+          }
+        }
+      }
+    },
+    "本机删除会移除当前设备的饮食记录、自定义食物、目标、汇总、同步元数据、冲突副本和本地照片。删除 iCloud 数据会同时删除当前私有 CloudKit Zone；Health App 中已写入的膳食样本不会自动删除。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deleting local data removes this device’s diary entries, custom foods, goals, summaries, sync metadata, conflict copies, and local photos. Deleting iCloud data also removes the private CloudKit zone. Meals already written to the Health app are not deleted automatically."
+          }
+        }
+      }
+    },
+    "本构建已建立本地持久化和同步冲突模型；接入真实 iCloud 容器后，由 CKSyncEngine 同步非照片数据与每日能量汇总。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This build provides local persistence and a sync-conflict model. Once a live iCloud container is connected, CKSyncEngine will sync non-photo data and daily energy summaries."
+          }
+        }
+      }
+    },
+    "本次摄入": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Amount consumed"
+          }
+        }
+      }
+    },
+    "来源": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Source"
+          }
+        }
+      }
+    },
+    "构建": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Build"
+          }
+        }
+      }
+    },
+    "查看来源": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "View source"
+          }
+        }
+      }
+    },
+    "校验 SHA256": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SHA256 checksum"
+          }
+        }
+      }
+    },
+    "模型": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Model"
+          }
+        }
+      }
+    },
+    "正值表示目标盈余，负值表示目标缺口。该值只用于计算目标摄入，不构成医疗建议。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A positive value represents a target surplus; a negative value represents a target deficit. This value is used only to calculate target intake and is not medical advice."
+          }
+        }
+      }
+    },
+    "正在搜索…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Searching…"
+          }
+        }
+      }
+    },
+    "正在测试…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testing…"
+          }
+        }
+      }
+    },
+    "正在请求 DeepSeek…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Requesting DeepSeek…"
+          }
+        }
+      }
+    },
+    "此操作不可撤销。Health App 中已写入的膳食样本不会自动删除。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This cannot be undone. Dietary samples already written to Apple Health are not deleted automatically."
+          }
+        }
+      }
+    },
+    "此操作会删除当前 iCloud 私有 Zone 中的所有同步记录，并清除本机数据与照片。Health App 中已写入的膳食样本仍需在 Health 内单独删除。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This removes all sync records in the private CloudKit zone and clears local data and photos. Meals already written to the Health app must still be deleted separately in Health."
+          }
+        }
+      }
+    },
+    "每 100": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Per 100"
+          }
+        }
+      }
+    },
+    "每 100 单位直接营养": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Direct nutrition per 100 units"
+          }
+        }
+      }
+    },
+    "每日热量平衡目标": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Daily energy balance target"
+          }
+        }
+      }
+    },
+    "每次分析前仍会单独确认照片上传。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Photo upload is confirmed separately before every analysis."
+          }
+        }
+      }
+    },
+    "毫升": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ml"
+          }
+        }
+      }
+    },
+    "没有记录": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No entries"
+          }
+        }
+      }
+    },
+    "活动、静息和锻炼时间按来源分别选择，不会把多个设备相加。App 仅在前台、回到前台或 HealthKit 数据变化时刷新。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Active energy, resting energy, and exercise time are selected per source and are never summed across devices. The app refreshes in the foreground, on return to foreground, or after HealthKit changes."
+          }
+        }
+      }
+    },
+    "活动净平衡": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Active net balance"
+          }
+        }
+      }
+    },
+    "活动能量": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Active energy"
+          }
+        }
+      }
+    },
+    "测试失败": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test failed"
+          }
+        }
+      }
+    },
+    "测试已保存 Key": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test saved key"
+          }
+        }
+      }
+    },
+    "混合餐识别只提取菜品、食材和份量，营养由本地目录计算。包装标签识别会提取可见营养数值，并保持“估算”状态等待确认。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mixed-meal recognition extracts only dishes, ingredients, and portions; nutrition is calculated from the local catalog. Label recognition extracts visible values and keeps them estimated until confirmation."
+          }
+        }
+      }
+    },
+    "添加": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add"
+          }
+        }
+      }
+    },
+    "添加食材": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add ingredient"
+          }
+        }
+      }
+    },
+    "热量平衡目标": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Energy balance target"
+          }
+        }
+      }
+    },
+    "照片结果属于估算，需确认后才计入。识别不到的食物可返回普通搜索录入。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Photo results are estimates and count only after confirmation. If a food is not recognized, return to regular search."
+          }
+        }
+      }
+    },
+    "照片识别仅在 iPhone 上可用": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Photo recognition is available only on iPhone"
+          }
+        }
+      }
+    },
+    "照片默认保存在本机": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Photos stay on this device by default"
+          }
+        }
+      }
+    },
+    "版本": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Version"
+          }
+        }
+      }
+    },
+    "版本：": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Version:"
+          }
+        }
+      }
+    },
+    "状态": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Status"
+          }
+        }
+      }
+    },
+    "生成时间": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Generated"
+          }
+        }
+      }
+    },
+    "留空则使用食材总重量": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Leave blank to use the total ingredient weight"
+          }
+        }
+      }
+    },
+    "目标": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Target"
+          }
+        }
+      }
+    },
+    "目标为正值表示每日盈余，负值表示每日缺口。App 不提供医学建议。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A positive target is a daily surplus and a negative target is a daily deficit. The app does not provide medical advice."
+          }
+        }
+      }
+    },
+    "确认份量": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Confirm portion"
+          }
+        }
+      }
+    },
+    "确认使用当前 iCloud 账号": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Confirm Current iCloud Account"
+          }
+        }
+      }
+    },
+    "确认营养标签": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Confirm nutrition label"
+          }
+        }
+      }
+    },
+    "确认识别结果": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Confirm recognition results"
+          }
+        }
+      }
+    },
+    "离线目录包含公开授权食物，并合并本地自定义和复合食物；搜索同时支持中英文名称与别名。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The offline catalog combines licensed foods with local custom and composite foods. Search works across Chinese and English names and aliases."
+          }
+        }
+      }
+    },
+    "离线食物目录": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Offline food catalog"
+          }
+        }
+      }
+    },
+    "立即刷新": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Refresh now"
+          }
+        }
+      }
+    },
+    "立即同步": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sync Now"
+          }
+        }
+      }
+    },
+    "简体中文": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "简体中文"
+          }
+        }
+      }
+    },
+    "管理 DeepSeek API Key": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Manage DeepSeek API key"
+          }
+        }
+      }
+    },
+    "管理健康权限": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Manage Health permissions"
+          }
+        }
+      }
+    },
+    "约等于": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Approximately"
+          }
+        }
+      }
+    },
+    "继续识别": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Continue"
+          }
+        }
+      }
+    },
+    "缺失": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Missing"
+          }
+        }
+      }
+    },
+    "缺少对应的 HealthKit 数据类型": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The required HealthKit data type is missing"
+          }
+        }
+      }
+    },
+    "置信度": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Confidence"
+          }
+        }
+      }
+    },
+    "能量来源": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Energy source"
+          }
+        }
+      }
+    },
+    "自动（Apple Watch 优先）": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatic (Apple Watch preferred)"
+          }
+        }
+      }
+    },
+    "英文原名": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Source name"
+          }
+        }
+      }
+    },
+    "营养基准": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nutrition basis"
+          }
+        }
+      }
+    },
+    "营养成分": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nutrition"
+          }
+        }
+      }
+    },
+    "营养数值来自照片中的营养标签，保持“估算”状态；请核对后保存。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nutrition values come from the photographed label and remain estimated. Verify them before saving."
+          }
+        }
+      }
+    },
+    "营养明细": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nutrition details"
+          }
+        }
+      }
+    },
+    "营养预览": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nutrition preview"
+          }
+        }
+      }
+    },
+    "行：": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Row:"
+          }
+        }
+      }
+    },
+    "计入此菜品": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Include this dish"
+          }
+        }
+      }
+    },
+    "计入记录": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add to diary"
+          }
+        }
+      }
+    },
+    "计算方式": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calculation method"
+          }
+        }
+      }
+    },
+    "记录": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Log"
+          }
+        }
+      }
+    },
+    "记录数": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Records"
+          }
+        }
+      }
+    },
+    "记录日期": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entry date"
+          }
+        }
+      }
+    },
+    "记录食物": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Log food"
+          }
+        }
+      }
+    },
+    "许可证": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "License"
+          }
+        }
+      }
+    },
+    "设置": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings"
+          }
+        }
+      }
+    },
+    "识别名称": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recognized name"
+          }
+        }
+      }
+    },
+    "识别来源": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recognition source"
+          }
+        }
+      }
+    },
+    "识别类型": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recognition type"
+          }
+        }
+      }
+    },
+    "识别置信度": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recognition confidence"
+          }
+        }
+      }
+    },
+    "语言": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Language"
+          }
+        }
+      }
+    },
+    "语言 / Language": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Language"
+          }
+        }
+      }
+    },
+    "说明": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notes"
+          }
+        }
+      }
+    },
+    "请检查名称或别名，也可以新建复合食物。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check the name or alias, or create a composite food."
+          }
+        }
+      }
+    },
+    "请检查名称或别名，或新建复合食物。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check the name or alias, or create a composite food."
+          }
+        }
+      }
+    },
+    "请输入有效份量后查看营养": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enter a valid portion to preview nutrition"
+          }
+        }
+      }
+    },
+    "请输入有效的份量": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enter a valid portion"
+          }
+        }
+      }
+    },
+    "请输入有效的克数": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enter a valid weight in grams"
+          }
+        }
+      }
+    },
+    "读取健康能量失败": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Failed to read health energy"
+          }
+        }
+      }
+    },
+    "跟随系统": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Follow System"
+          }
+        }
+      }
+    },
+    "返回": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Back"
+          }
+        }
+      }
+    },
+    "还没有记录": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No entries yet"
+          }
+        }
+      }
+    },
+    "连接成功": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connected"
+          }
+        }
+      }
+    },
+    "部分健康指标缺失": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Some health metrics are missing"
+          }
+        }
+      }
+    },
+    "配置 DeepSeek API Key": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Configure DeepSeek API key"
+          }
+        }
+      }
+    },
+    "重复名称：": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Duplicate names:"
+          }
+        }
+      }
+    },
+    "重建本地数据库": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rebuild local database"
+          }
+        }
+      }
+    },
+    "重建本地数据库？": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rebuild local database?"
+          }
+        }
+      }
+    },
+    "重试": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Retry"
+          }
+        }
+      }
+    },
+    "错误": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Errors"
+          }
+        }
+      }
+    },
+    "锻炼时间": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exercise time"
+          }
+        }
+      }
+    },
+    "长按并拖动菜品到目标餐次。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Press and drag a food item to another meal."
+          }
+        }
+      }
+    },
+    "静息能量": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Resting energy"
+          }
+        }
+      }
+    },
+    "预览": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Preview"
+          }
+        }
+      }
+    },
+    "食材": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ingredients"
+          }
+        }
+      }
+    },
+    "食物": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Food"
+          }
+        }
+      }
+    },
+    "食物库": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Food library"
+          }
+        }
+      }
+    },
+    "食物数据来源": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Food data sources"
+          }
+        }
+      }
+    },
+    "食物数据来源与许可证": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Food data sources and licenses"
+          }
+        }
+      }
+    },
+    "食物目录": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Food catalog"
+          }
+        }
+      }
+    },
+    "餐次": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meal"
+          }
+        }
+      }
+    },
+    "餐食全景": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Full meal view"
+          }
+        }
+      }
+    },
+    "餐食照片分析结果": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meal photo analysis result"
+          }
+        }
+      }
+    },
+    "饮食摄入": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dietary intake"
+          }
+        }
+      }
+    },
+    "饮食营养记录": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nutrition Diary"
+          }
+        }
+      }
+    },
+    "鸡": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chicken"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

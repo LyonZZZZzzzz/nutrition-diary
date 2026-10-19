@@ -1,0 +1,86 @@
+{
+  "sourceLanguage": "zh-Hans",
+  "strings": {
+    "CFBundleDisplayName": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nutrition Diary"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "饮食营养记录"
+          }
+        }
+      }
+    },
+    "NSCameraUsageDescription": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use the camera to analyze meal photos on this device. Photos are sent to DeepSeek only when you explicitly confirm cloud recognition each time."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "用于拍摄餐食照片并在设备端分析；只有你在每次确认后选择 DeepSeek 时，照片才会发送到云端。"
+          }
+        }
+      }
+    },
+    "NSHealthShareUsageDescription": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Read activity and resting energy from Apple Watch to calculate daily energy balance."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "读取 Apple Watch 的活动与静息能量，用于计算每日热量平衡。"
+          }
+        }
+      }
+    },
+    "NSHealthUpdateUsageDescription": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Write confirmed dietary energy and nutrients to the Health app."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "将确认后的膳食能量和营养写入“健康”App。"
+          }
+        }
+      }
+    },
+    "NSPhotoLibraryUsageDescription": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Select meal photos for on-device analysis. Photos are sent to DeepSeek only when you explicitly confirm cloud recognition each time."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "用于选择餐食照片并在设备端分析；只有你在每次确认后选择 DeepSeek 时，照片才会发送到云端。"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

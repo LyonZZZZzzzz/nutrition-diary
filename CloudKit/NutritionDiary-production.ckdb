@@ -1,0 +1,32 @@
+DEFINE SCHEMA
+
+    RECORD TYPE NutritionSyncRecord (
+        "___createTime"  TIMESTAMP,
+        "___createdBy"   REFERENCE,
+        "___etag"        STRING,
+        "___modTime"     TIMESTAMP,
+        "___modifiedBy"  REFERENCE,
+        "___recordID"    REFERENCE,
+        businessRecordID STRING QUERYABLE SEARCHABLE SORTABLE,
+        deletedAt        TIMESTAMP QUERYABLE SORTABLE,
+        deviceID         STRING QUERYABLE SEARCHABLE SORTABLE,
+        payload          BYTES QUERYABLE SORTABLE,
+        recordKind       STRING QUERYABLE SEARCHABLE SORTABLE,
+        schemaVersion    INT64 QUERYABLE SORTABLE,
+        updatedAt        TIMESTAMP QUERYABLE SORTABLE,
+        GRANT WRITE TO "_creator",
+        GRANT CREATE TO "_icloud",
+        GRANT READ TO "_world"
+    );
+
+    RECORD TYPE Users (
+        "___createTime" TIMESTAMP,
+        "___createdBy"  REFERENCE,
+        "___etag"       STRING,
+        "___modTime"    TIMESTAMP,
+        "___modifiedBy" REFERENCE,
+        "___recordID"   REFERENCE,
+        roles           LIST<INT64>,
+        GRANT WRITE TO "_creator",
+        GRANT READ TO "_world"
+    );

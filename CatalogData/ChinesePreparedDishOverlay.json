@@ -1,0 +1,6159 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "2026-10-19-v1",
+  "dishes": [
+    {
+      "id": "7d56bcf0-bd06-5582-8983-3e5e5eb0b591",
+      "nameZh": "宫保鸡丁",
+      "nameEn": "Kung Pao Chicken",
+      "pinyin": [
+        "gong bao ji ding",
+        "gongbaojiding"
+      ],
+      "aliasesZh": [
+        "宫爆鸡丁",
+        "宫保鸡"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 300,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 300,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000006",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000048",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000049",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000119",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000113",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000114",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000117",
+          "amount": 8,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "89942d64-0c5c-53ba-a28e-6a540c43f1ae",
+      "nameZh": "鱼香肉丝",
+      "nameEn": "Yu Xiang Shredded Pork",
+      "pinyin": [
+        "yu xiang rou si",
+        "yuxiangrousi"
+      ],
+      "aliasesZh": [
+        "鱼香猪肉丝",
+        "余香肉丝"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 330,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 330,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000089",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000048",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000015",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000029",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000113",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000114",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000117",
+          "amount": 8,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "7675d38b-671e-5bdd-9275-502120874cc4",
+      "nameZh": "番茄炒蛋",
+      "nameEn": "Tomato Scrambled Eggs",
+      "pinyin": [
+        "fan qie chao dan",
+        "fanqiechaodan"
+      ],
+      "aliasesZh": [
+        "西红柿炒鸡蛋",
+        "番茄炒鸡蛋",
+        "西红柿炒蛋"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 330,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 330,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000003",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000045",
+          "amount": 220,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000119",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000113",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "5b2fdd8b-a20a-5375-a3ef-4cbadc9cc5d2",
+      "nameZh": "青椒肉丝",
+      "nameEn": "Green Pepper Shredded Pork",
+      "pinyin": [
+        "qing jiao rou si",
+        "qingjiaorousi"
+      ],
+      "aliasesZh": [
+        "尖椒肉丝",
+        "青椒猪肉丝"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 300,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 300,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000089",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000048",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000117",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "a195bc11-b9b6-5157-aed1-194c4beaf7b0",
+      "nameZh": "麻婆豆腐",
+      "nameEn": "Mapo Tofu",
+      "pinyin": [
+        "ma po dou fu",
+        "mapodoufu"
+      ],
+      "aliasesZh": [
+        "麻辣豆腐"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 380,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 380,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000009",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000089",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000121",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000119",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "0dca6c57-6847-5dd3-ab9d-71099a2aec0c",
+      "nameZh": "红烧肉",
+      "nameEn": "Red Braised Pork",
+      "pinyin": [
+        "hong shao rou",
+        "hongshaorou"
+      ],
+      "aliasesZh": [
+        "家常红烧肉"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炖煮",
+      "categoryEn": "Chinese braised dish",
+      "preparationState": "prepared",
+      "finalYieldGrams": 300,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 300,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000089",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000113",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000118",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "db1b3b01-78e8-5e0b-b9ea-d9af0c09f45f",
+      "nameZh": "回锅肉",
+      "nameEn": "Twice-Cooked Pork",
+      "pinyin": [
+        "hui guo rou",
+        "huiguorou"
+      ],
+      "aliasesZh": [
+        "回锅猪肉"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 380,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 380,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000089",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000067",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000048",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000121",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "36676caf-6188-50cf-b822-0ad513b079e7",
+      "nameZh": "糖醋里脊",
+      "nameEn": "Sweet and Sour Pork",
+      "pinyin": [
+        "tang cu li ji",
+        "tangculiji"
+      ],
+      "aliasesZh": [
+        "糖醋猪肉",
+        "糖醋里肌肉"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 300,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 300,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000089",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000113",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000114",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000116",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "df1d9679-7fff-5869-9064-cfd62baf8897",
+      "nameZh": "京酱肉丝",
+      "nameEn": "Jing Sauce Shredded Pork",
+      "pinyin": [
+        "jing jiang rou si",
+        "jingjiangrousi"
+      ],
+      "aliasesZh": [
+        "京酱猪肉丝"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 300,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 300,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000089",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000119",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000113",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "882d9f24-a68a-51ad-ab32-27e2185c858e",
+      "nameZh": "木须肉",
+      "nameEn": "Moo Shu Pork",
+      "pinyin": [
+        "mu xu rou",
+        "muxurou"
+      ],
+      "aliasesZh": [
+        "木樨肉",
+        "木须猪肉"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 400,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 400,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000089",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000003",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000046",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000029",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "ec559cc3-6396-517b-8e04-105d00ef8b58",
+      "nameZh": "蒜苔肉丝",
+      "nameEn": "Garlic Scape Shredded Pork",
+      "pinyin": [
+        "suan tai rou si",
+        "suantairousi"
+      ],
+      "aliasesZh": [
+        "蒜苔炒肉",
+        "蒜薹肉丝"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 300,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 300,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000089",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000066",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "19acfeec-fb6d-5dba-85f2-3c6864f2e0c0",
+      "nameZh": "芹菜肉丝",
+      "nameEn": "Celery Shredded Pork",
+      "pinyin": [
+        "qin cai rou si",
+        "qincairousi"
+      ],
+      "aliasesZh": [
+        "芹菜炒肉"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 300,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 300,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000089",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000050",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "f4689af7-7053-5d2e-8a69-d9194ac74c03",
+      "nameZh": "洋葱炒牛肉",
+      "nameEn": "Onion Beef Stir-Fry",
+      "pinyin": [
+        "yang cong chao niu rou",
+        "yangcongchaoniurou"
+      ],
+      "aliasesZh": [
+        "洋葱牛肉"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 320,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 320,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000088",
+          "amount": 160,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000049",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "51d3b770-459b-522a-9e5c-ae0db5703b84",
+      "nameZh": "西兰花炒牛肉",
+      "nameEn": "Beef and Broccoli",
+      "pinyin": [
+        "xi lan hua chao niu rou",
+        "xilanhuachaoniurou"
+      ],
+      "aliasesZh": [
+        "西兰花牛肉",
+        "牛肉炒西兰花"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 360,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 360,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000088",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000013",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "7eb39381-465d-5d4f-beb0-95a8e5378e5e",
+      "nameZh": "黑椒牛柳",
+      "nameEn": "Black Pepper Beef",
+      "pinyin": [
+        "hei jiao niu liu",
+        "heijiaoniuliu"
+      ],
+      "aliasesZh": [
+        "黑椒牛肉",
+        "黑胡椒牛柳"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 350,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 350,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000088",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000049",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000048",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "54094a4d-efb3-545d-a208-8d612ec94cd4",
+      "nameZh": "香菇鸡片",
+      "nameEn": "Chicken with Mushrooms",
+      "pinyin": [
+        "xiang gu ji pian",
+        "xianggujipian"
+      ],
+      "aliasesZh": [
+        "香菇鸡肉片",
+        "蘑菇炒鸡"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 320,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 320,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000006",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000029",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000048",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "929c1dd3-e8bc-5ec8-95dc-f88c32903aac",
+      "nameZh": "辣子鸡",
+      "nameEn": "Spicy Chicken",
+      "pinyin": [
+        "la zi ji",
+        "laziji"
+      ],
+      "aliasesZh": [
+        "重庆辣子鸡",
+        "辣子鸡丁"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 300,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 300,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000006",
+          "amount": 220,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000048",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000119",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000121",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 25,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "0da5061d-d7e3-5f5c-9d41-2677493db424",
+      "nameZh": "宫保虾仁",
+      "nameEn": "Kung Pao Shrimp",
+      "pinyin": [
+        "gong bao xia ren",
+        "gongbaoxiaren"
+      ],
+      "aliasesZh": [
+        "宫爆虾仁"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 320,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 320,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000008",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000048",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000049",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000113",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000121",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "14d02879-f87c-5690-93ac-6d89b7ca6302",
+      "nameZh": "清炒虾仁",
+      "nameEn": "Stir-Fried Shrimp",
+      "pinyin": [
+        "qing chao xia ren",
+        "qingchaoxiaren"
+      ],
+      "aliasesZh": [
+        "清炒虾",
+        "虾仁小炒"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 280,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 280,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000008",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000046",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000119",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "33fcb58b-2e63-5ba0-a629-db2d1141f6cc",
+      "nameZh": "韭菜炒鸡蛋",
+      "nameEn": "Chive Scrambled Eggs",
+      "pinyin": [
+        "jiu cai chao ji dan",
+        "jiucaichaojidan"
+      ],
+      "aliasesZh": [
+        "韭菜鸡蛋"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 280,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 280,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000056",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000003",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "f88941c7-0eab-5e1c-a562-182b20c76cae",
+      "nameZh": "菠菜炒鸡蛋",
+      "nameEn": "Spinach Scrambled Eggs",
+      "pinyin": [
+        "bo cai chao ji dan",
+        "bocaichaojidan"
+      ],
+      "aliasesZh": [
+        "菠菜鸡蛋"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 330,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 330,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000014",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000003",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "88ed6425-2d7d-569d-a1ed-e5e2222539d9",
+      "nameZh": "蘑菇炒鸡蛋",
+      "nameEn": "Mushroom Scrambled Eggs",
+      "pinyin": [
+        "mo gu chao ji dan",
+        "moguchaojidan"
+      ],
+      "aliasesZh": [
+        "蘑菇鸡蛋",
+        "香菇炒蛋"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 320,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 320,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000029",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000003",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "e43ff50a-6be8-522b-b362-a47959cf295b",
+      "nameZh": "蒜蓉西兰花",
+      "nameEn": "Garlic Broccoli",
+      "pinyin": [
+        "suan rong xi lan hua",
+        "suanrongxilanhua"
+      ],
+      "aliasesZh": [
+        "蒜蓉绿花椰菜"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 280,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 280,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000013",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000117",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "e8d89c38-d2c9-5225-8eb6-df3a459d9661",
+      "nameZh": "清炒时蔬",
+      "nameEn": "Stir-Fried Seasonal Vegetables",
+      "pinyin": [
+        "qing chao shi shu",
+        "qingchaoshishu"
+      ],
+      "aliasesZh": [
+        "清炒蔬菜",
+        "时蔬小炒"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 300,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 300,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000067",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000015",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "6437fab5-7e78-5f9a-bd17-ec6195fc16a1",
+      "nameZh": "手撕包菜",
+      "nameEn": "Hand-Torn Cabbage",
+      "pinyin": [
+        "shou si bao cai",
+        "shousibaocai"
+      ],
+      "aliasesZh": [
+        "手撕圆白菜"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 320,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 320,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000067",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000121",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000117",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "98860519-f9f8-5753-87f6-9b403a5d0b6a",
+      "nameZh": "地三鲜",
+      "nameEn": "Di San Xian",
+      "pinyin": [
+        "di san xian",
+        "disanxian"
+      ],
+      "aliasesZh": [
+        "东北地三鲜"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 420,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 420,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000012",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000047",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000048",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000113",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "33327750-b470-5f15-be51-aa9665c0c66d",
+      "nameZh": "红烧茄子",
+      "nameEn": "Braised Eggplant",
+      "pinyin": [
+        "hong shao qie zi",
+        "hongshaoqiezi"
+      ],
+      "aliasesZh": [
+        "家常茄子"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 350,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 350,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000047",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000113",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000117",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "ccf76029-cde3-5eba-96e5-f8781ba7d0c8",
+      "nameZh": "鱼香茄子",
+      "nameEn": "Yu Xiang Eggplant",
+      "pinyin": [
+        "yu xiang qie zi",
+        "yuxiangqiezi"
+      ],
+      "aliasesZh": [
+        "鱼香茄条"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 380,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 380,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000047",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000089",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000121",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000114",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000113",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "df7cf08b-e010-5500-891e-a5516da4dc0d",
+      "nameZh": "干煸四季豆",
+      "nameEn": "Dry-Fried Green Beans",
+      "pinyin": [
+        "gan bian si ji dou",
+        "ganbiansijidou"
+      ],
+      "aliasesZh": [
+        "干煸豆角"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 330,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 330,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000066",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000089",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000121",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "06affa6a-1c27-565f-9c80-1d11ed541c52",
+      "nameZh": "清炒豆芽",
+      "nameEn": "Stir-Fried Bean Sprouts",
+      "pinyin": [
+        "qing chao dou ya",
+        "qingchaodouya"
+      ],
+      "aliasesZh": [
+        "炒绿豆芽"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 270,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 270,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000053",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000119",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "23d3d654-f810-560f-a32a-d8ff4d79261c",
+      "nameZh": "醋溜土豆丝",
+      "nameEn": "Vinegar Potato Shreds",
+      "pinyin": [
+        "cu liu tu dou si",
+        "culiutudousi"
+      ],
+      "aliasesZh": [
+        "酸辣土豆丝",
+        "醋溜马铃薯丝"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 300,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 300,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000012",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000114",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000048",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "c93e3a39-bacd-57c1-ba24-b208c90ce88d",
+      "nameZh": "酸辣土豆丝",
+      "nameEn": "Hot and Sour Potato Shreds",
+      "pinyin": [
+        "suan la tu dou si",
+        "suanlatudousi"
+      ],
+      "aliasesZh": [
+        "酸辣马铃薯丝"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 300,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 300,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000012",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000114",
+          "amount": 12,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000121",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "288c6aa5-05c4-5224-a1f7-7b0f7bf6d445",
+      "nameZh": "番茄炒菜花",
+      "nameEn": "Tomato Cauliflower",
+      "pinyin": [
+        "fan qie chao cai hua",
+        "fanqiechaocaihua"
+      ],
+      "aliasesZh": [
+        "西红柿炒花菜"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 400,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 400,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000054",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000045",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "86283ff5-359c-5bb0-bb9c-49594d2ae9f9",
+      "nameZh": "清炒莲藕",
+      "nameEn": "Stir-Fried Lotus Root",
+      "pinyin": [
+        "qing chao lian ou",
+        "qingchaolianou"
+      ],
+      "aliasesZh": [
+        "清炒藕片"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 280,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 280,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000052",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000015",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "89540987-5c6f-5795-89cc-9dc65678797d",
+      "nameZh": "蒜蓉菠菜",
+      "nameEn": "Garlic Spinach",
+      "pinyin": [
+        "suan rong bo cai",
+        "suanrongbocai"
+      ],
+      "aliasesZh": [
+        "蒜蓉菠菜叶"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 260,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 260,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000014",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000117",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "f83f7c4c-3f44-5e40-9242-be01fd535c87",
+      "nameZh": "清炒生菜",
+      "nameEn": "Stir-Fried Lettuce",
+      "pinyin": [
+        "qing chao sheng cai",
+        "qingchaoshengcai"
+      ],
+      "aliasesZh": [
+        "蒜蓉生菜"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 260,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 260,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000044",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000117",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "8f4d2d79-2fec-5548-8644-451fb834ac0e",
+      "nameZh": "西葫芦炒蛋",
+      "nameEn": "Zucchini Scrambled Eggs",
+      "pinyin": [
+        "xi hu lu chao dan",
+        "xihuluchaodan"
+      ],
+      "aliasesZh": [
+        "角瓜炒蛋"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 320,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 320,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000062",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000003",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "845df6fd-e6d0-5797-9cfd-0cc1ca0002bd",
+      "nameZh": "苦瓜炒蛋",
+      "nameEn": "Bitter Melon Scrambled Eggs",
+      "pinyin": [
+        "ku gua chao dan",
+        "kuguachaodan"
+      ],
+      "aliasesZh": [
+        "凉瓜炒蛋"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 320,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 320,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000061",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000003",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "32bc6468-d619-59c4-9c48-a34e03458e3c",
+      "nameZh": "南瓜炒肉",
+      "nameEn": "Pumpkin Pork Stir-Fry",
+      "pinyin": [
+        "nan gua chao rou",
+        "nanguachaorou"
+      ],
+      "aliasesZh": [
+        "南瓜炒猪肉"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 350,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 350,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000089",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000051",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "e8ed0610-7fe6-5db0-90fa-20f6bc999ac1",
+      "nameZh": "山药炒木耳",
+      "nameEn": "Yam with Wood Ear Mushroom",
+      "pinyin": [
+        "shan yao chao mu er",
+        "shanyaochaomuer"
+      ],
+      "aliasesZh": [
+        "山药蘑菇",
+        "山药木耳"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 340,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 340,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000064",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000029",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "ffe983d8-ccb8-515e-8599-5a5bcb8d9fbc",
+      "nameZh": "冬瓜虾仁",
+      "nameEn": "Winter Melon with Shrimp",
+      "pinyin": [
+        "dong gua xia ren",
+        "dongguaxiaren"
+      ],
+      "aliasesZh": [
+        "冬瓜炒虾仁"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 350,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 350,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000060",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000008",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000119",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "414d0029-70d6-5e9d-94df-5b2d5a701735",
+      "nameZh": "秋葵炒虾仁",
+      "nameEn": "Okra Shrimp Stir-Fry",
+      "pinyin": [
+        "qiu kui chao xia ren",
+        "qiukuichaoxiaren"
+      ],
+      "aliasesZh": [
+        "秋葵虾仁"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 350,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 350,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000057",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000008",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "ab89cc79-906c-5eae-a3ac-2b2e156429c7",
+      "nameZh": "芦笋炒虾仁",
+      "nameEn": "Asparagus Shrimp Stir-Fry",
+      "pinyin": [
+        "lu sun chao xia ren",
+        "lusunchaoxiaren"
+      ],
+      "aliasesZh": [
+        "芦笋虾仁"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 350,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 350,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000058",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000008",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "e5e061f4-3ad4-5f4e-a6e6-826c1ded947e",
+      "nameZh": "韭菜炒虾仁",
+      "nameEn": "Chive Shrimp Stir-Fry",
+      "pinyin": [
+        "jiu cai chao xia ren",
+        "jiucaichaoxiaren"
+      ],
+      "aliasesZh": [
+        "韭菜虾仁"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 300,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 300,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000056",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000008",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "cc354725-3410-543f-8143-1b86c889a925",
+      "nameZh": "彩椒鸡丁",
+      "nameEn": "Bell Pepper Chicken",
+      "pinyin": [
+        "cai jiao ji ding",
+        "caijiaojiding"
+      ],
+      "aliasesZh": [
+        "彩椒鸡肉丁"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 380,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 380,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000006",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000048",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000049",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "90958b1d-7daa-5655-8e5e-af4d1e3df203",
+      "nameZh": "青椒土豆丝",
+      "nameEn": "Green Pepper Potato Shreds",
+      "pinyin": [
+        "qing jiao tu dou si",
+        "qingjiaotudousi"
+      ],
+      "aliasesZh": [
+        "尖椒土豆丝"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炒菜",
+      "categoryEn": "Chinese stir-fry",
+      "preparationState": "prepared",
+      "finalYieldGrams": 300,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 300,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000012",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000048",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 12,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "aeae7e35-4eb9-5391-b164-ec98c2af05b4",
+      "nameZh": "番茄炖牛腩",
+      "nameEn": "Tomato Beef Brisket",
+      "pinyin": [
+        "fan qie dun niu nan",
+        "fanqiedunniunan"
+      ],
+      "aliasesZh": [
+        "西红柿炖牛肉",
+        "番茄牛腩"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炖煮",
+      "categoryEn": "Chinese braised dish",
+      "preparationState": "prepared",
+      "finalYieldGrams": 420,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 420,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000088",
+          "amount": 220,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000045",
+          "amount": 220,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000049",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "1d3f1ca2-6ca5-515f-927c-3179ac075f42",
+      "nameZh": "土豆炖牛肉",
+      "nameEn": "Potato Beef Stew",
+      "pinyin": [
+        "tu dou dun niu rou",
+        "tudoudunniurou"
+      ],
+      "aliasesZh": [
+        "牛肉炖土豆"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炖煮",
+      "categoryEn": "Chinese braised dish",
+      "preparationState": "prepared",
+      "finalYieldGrams": 450,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 450,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000088",
+          "amount": 220,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000012",
+          "amount": 220,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000015",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "11335e78-f07b-54c0-807d-90e955a1dbbe",
+      "nameZh": "香菇炖鸡",
+      "nameEn": "Braised Chicken with Mushrooms",
+      "pinyin": [
+        "xiang gu dun ji",
+        "xianggudunji"
+      ],
+      "aliasesZh": [
+        "香菇鸡",
+        "炖鸡"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炖煮",
+      "categoryEn": "Chinese braised dish",
+      "preparationState": "prepared",
+      "finalYieldGrams": 450,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 450,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000006",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000029",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000118",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "81ab5e44-7702-551e-8356-7df84af98ba0",
+      "nameZh": "红烧鸡腿",
+      "nameEn": "Red-Braised Chicken",
+      "pinyin": [
+        "hong shao ji tui",
+        "hongshaojitui"
+      ],
+      "aliasesZh": [
+        "红烧鸡块"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炖煮",
+      "categoryEn": "Chinese braised dish",
+      "preparationState": "prepared",
+      "finalYieldGrams": 400,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 400,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000006",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000113",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000118",
+          "amount": 8,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "d0d4b7ee-1357-5cf0-a999-2f5d01c75de6",
+      "nameZh": "白菜炖豆腐",
+      "nameEn": "Cabbage Tofu Stew",
+      "pinyin": [
+        "bai cai dun dou fu",
+        "baicaidundoufu"
+      ],
+      "aliasesZh": [
+        "白菜豆腐"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炖煮",
+      "categoryEn": "Chinese braised dish",
+      "preparationState": "prepared",
+      "finalYieldGrams": 450,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 450,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000043",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000009",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "ab12a521-6f29-5196-aa23-de480cca6bd7",
+      "nameZh": "冬瓜炖肉",
+      "nameEn": "Winter Melon Pork Stew",
+      "pinyin": [
+        "dong gua dun rou",
+        "dongguadunrou"
+      ],
+      "aliasesZh": [
+        "冬瓜猪肉"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炖煮",
+      "categoryEn": "Chinese braised dish",
+      "preparationState": "prepared",
+      "finalYieldGrams": 420,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 420,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000060",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000089",
+          "amount": 170,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "18f6782c-4313-5731-837e-dd0cba78ff47",
+      "nameZh": "玉米炖鸡",
+      "nameEn": "Corn Chicken Stew",
+      "pinyin": [
+        "yu mi dun ji",
+        "yumidunji"
+      ],
+      "aliasesZh": [
+        "玉米鸡"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炖煮",
+      "categoryEn": "Chinese braised dish",
+      "preparationState": "prepared",
+      "finalYieldGrams": 450,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 450,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000006",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000028",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000015",
+          "amount": 60,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "294d2df5-e70e-5923-811c-e393aba7d311",
+      "nameZh": "红烧鳕鱼",
+      "nameEn": "Braised Cod",
+      "pinyin": [
+        "hong shao xue yu",
+        "hongshaoxueyu"
+      ],
+      "aliasesZh": [
+        "红烧鱼"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炖煮",
+      "categoryEn": "Chinese braised dish",
+      "preparationState": "prepared",
+      "finalYieldGrams": 330,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 330,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000092",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000118",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "47e74cbf-6238-5825-ab16-bab8c6559706",
+      "nameZh": "清蒸鳕鱼",
+      "nameEn": "Steamed Cod",
+      "pinyin": [
+        "qing zheng xue yu",
+        "qingzhengxueyu"
+      ],
+      "aliasesZh": [
+        "清蒸鱼"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "炖煮",
+      "categoryEn": "Chinese braised dish",
+      "preparationState": "prepared",
+      "finalYieldGrams": 300,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 300,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000092",
+          "amount": 280,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000119",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000118",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000120",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "8b0caf19-103f-5eff-9bf3-49707c581268",
+      "nameZh": "蛋炒饭",
+      "nameEn": "Egg Fried Rice",
+      "pinyin": [
+        "dan chao fan",
+        "danchaofan"
+      ],
+      "aliasesZh": [
+        "鸡蛋炒饭"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "主食",
+      "categoryEn": "Chinese staple",
+      "preparationState": "prepared",
+      "finalYieldGrams": 350,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 350,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000001",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000003",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000119",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 12,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "9a3f08b8-5a26-593f-8221-67fb44c025d0",
+      "nameZh": "扬州炒饭",
+      "nameEn": "Yangzhou Fried Rice",
+      "pinyin": [
+        "yang zhou chao fan",
+        "yangzhouchaofan"
+      ],
+      "aliasesZh": [
+        "什锦炒饭"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "主食",
+      "categoryEn": "Chinese staple",
+      "preparationState": "prepared",
+      "finalYieldGrams": 380,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 380,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000001",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000003",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000008",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000015",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 12,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "f667abee-3587-502b-a5fc-6f34e939966b",
+      "nameZh": "牛肉炒饭",
+      "nameEn": "Beef Fried Rice",
+      "pinyin": [
+        "niu rou chao fan",
+        "niurouchaofan"
+      ],
+      "aliasesZh": [
+        "牛肉米饭"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "主食",
+      "categoryEn": "Chinese staple",
+      "preparationState": "prepared",
+      "finalYieldGrams": 400,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 400,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000001",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000088",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000015",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 12,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "12834dd7-72f6-58f1-b11b-134f76ca99ec",
+      "nameZh": "番茄鸡蛋面",
+      "nameEn": "Tomato Egg Noodles",
+      "pinyin": [
+        "fan qie ji dan mian",
+        "fanqiejidanmian"
+      ],
+      "aliasesZh": [
+        "西红柿鸡蛋面"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "主食",
+      "categoryEn": "Chinese staple",
+      "preparationState": "prepared",
+      "finalYieldGrams": 450,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 450,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000022",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000045",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000003",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "3c6d0cfc-d8ba-5841-af80-c75e76ade3c2",
+      "nameZh": "牛肉面",
+      "nameEn": "Beef Noodles",
+      "pinyin": [
+        "niu rou mian",
+        "niuroumian"
+      ],
+      "aliasesZh": [
+        "红烧牛肉面"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "主食",
+      "categoryEn": "Chinese staple",
+      "preparationState": "prepared",
+      "finalYieldGrams": 500,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 500,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000022",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000088",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000043",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "d2b5a6ae-c45e-5bb6-a455-4ef4227169e3",
+      "nameZh": "炸酱面",
+      "nameEn": "Zhajiang Noodles",
+      "pinyin": [
+        "zha jiang mian",
+        "zhajiangmian"
+      ],
+      "aliasesZh": [
+        "炸酱面条"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "主食",
+      "categoryEn": "Chinese staple",
+      "preparationState": "prepared",
+      "finalYieldGrams": 420,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 420,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000022",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000089",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000046",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "41978c78-17a3-5455-8c95-aafbcef737b5",
+      "nameZh": "阳春面",
+      "nameEn": "Plain Noodles",
+      "pinyin": [
+        "yang chun mian",
+        "yangchunmian"
+      ],
+      "aliasesZh": [
+        "清汤面"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "主食",
+      "categoryEn": "Chinese staple",
+      "preparationState": "prepared",
+      "finalYieldGrams": 360,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 360,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000022",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000119",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000120",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "5d3eec5e-4ca6-5f4f-90a9-1e6e8619ab4b",
+      "nameZh": "炒面",
+      "nameEn": "Stir-Fried Noodles",
+      "pinyin": [
+        "chao mian",
+        "chaomian"
+      ],
+      "aliasesZh": [
+        "家常炒面"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "主食",
+      "categoryEn": "Chinese staple",
+      "preparationState": "prepared",
+      "finalYieldGrams": 380,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 380,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000022",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000067",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000015",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 12,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "2cf022f9-8fad-551f-b7d0-bc901a26bdb0",
+      "nameZh": "猪肉白菜水饺",
+      "nameEn": "Pork Cabbage Dumplings",
+      "pinyin": [
+        "zhu rou bai cai shui jiao",
+        "zhuroubaicaishuijiao"
+      ],
+      "aliasesZh": [
+        "白菜猪肉饺子",
+        "水饺"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "主食",
+      "categoryEn": "Chinese staple",
+      "preparationState": "prepared",
+      "finalYieldGrams": 300,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 300,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000023",
+          "amount": 300,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "e353c4f7-ab59-53fc-96a1-ef6da2651aa5",
+      "nameZh": "鸡蛋水饺",
+      "nameEn": "Egg Dumplings",
+      "pinyin": [
+        "ji dan shui jiao",
+        "jidanshuijiao"
+      ],
+      "aliasesZh": [
+        "鸡蛋饺子"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "主食",
+      "categoryEn": "Chinese staple",
+      "preparationState": "prepared",
+      "finalYieldGrams": 280,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 280,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000023",
+          "amount": 260,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000003",
+          "amount": 60,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "01b8ea46-97d7-5a43-999e-53cb916faf83",
+      "nameZh": "煎饺",
+      "nameEn": "Pan-Fried Dumplings",
+      "pinyin": [
+        "jian jiao",
+        "jianjiao"
+      ],
+      "aliasesZh": [
+        "锅贴"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "主食",
+      "categoryEn": "Chinese staple",
+      "preparationState": "prepared",
+      "finalYieldGrams": 280,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 280,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000023",
+          "amount": 260,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "a02b2613-8a76-5c7b-b29f-8a7241279bb8",
+      "nameZh": "牛肉饺子",
+      "nameEn": "Beef Dumplings",
+      "pinyin": [
+        "niu rou jiao zi",
+        "niuroujiaozi"
+      ],
+      "aliasesZh": [
+        "牛肉水饺"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "主食",
+      "categoryEn": "Chinese staple",
+      "preparationState": "prepared",
+      "finalYieldGrams": 300,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 300,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000023",
+          "amount": 280,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000088",
+          "amount": 80,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "f5098f49-a55c-51e6-b078-bd617b4430fa",
+      "nameZh": "蔬菜炒面",
+      "nameEn": "Vegetable Noodles",
+      "pinyin": [
+        "shu cai chao mian",
+        "shucaichaomian"
+      ],
+      "aliasesZh": [
+        "素炒面"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "主食",
+      "categoryEn": "Chinese staple",
+      "preparationState": "prepared",
+      "finalYieldGrams": 380,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 380,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000022",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000067",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000048",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "3c0e7753-0873-5840-bd64-964d2a70dcf7",
+      "nameZh": "鸡丝面",
+      "nameEn": "Chicken Noodle Soup",
+      "pinyin": [
+        "ji si mian",
+        "jisimian"
+      ],
+      "aliasesZh": [
+        "鸡肉面"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "主食",
+      "categoryEn": "Chinese staple",
+      "preparationState": "prepared",
+      "finalYieldGrams": 450,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 450,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000022",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000006",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000014",
+          "amount": 80,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "0e4f38db-4a09-51fe-8347-01443829bdbc",
+      "nameZh": "番茄牛肉面",
+      "nameEn": "Tomato Beef Noodles",
+      "pinyin": [
+        "fan qie niu rou mian",
+        "fanqieniuroumian"
+      ],
+      "aliasesZh": [
+        "西红柿牛肉面"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "主食",
+      "categoryEn": "Chinese staple",
+      "preparationState": "prepared",
+      "finalYieldGrams": 500,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 500,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000022",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000088",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000045",
+          "amount": 150,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "ec37db1f-6f49-5243-b0a9-ae78050e334d",
+      "nameZh": "紫菜蛋花汤",
+      "nameEn": "Seaweed Egg Drop Soup",
+      "pinyin": [
+        "zi cai dan hua tang",
+        "zicaidanhuatang"
+      ],
+      "aliasesZh": [
+        "海带蛋花汤"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "汤羹",
+      "categoryEn": "Chinese soup",
+      "preparationState": "prepared",
+      "finalYieldGrams": 350,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 350,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000059",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000003",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000120",
+          "amount": 3,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "6545230e-235d-598e-a586-94cead03774f",
+      "nameZh": "番茄蛋汤",
+      "nameEn": "Tomato Egg Soup",
+      "pinyin": [
+        "fan qie dan tang",
+        "fanqiedantang"
+      ],
+      "aliasesZh": [
+        "西红柿鸡蛋汤"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "汤羹",
+      "categoryEn": "Chinese soup",
+      "preparationState": "prepared",
+      "finalYieldGrams": 400,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 400,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000045",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000003",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000120",
+          "amount": 3,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "74700c43-7560-5c22-84d1-049df1cb6072",
+      "nameZh": "冬瓜汤",
+      "nameEn": "Winter Melon Soup",
+      "pinyin": [
+        "dong gua tang",
+        "dongguatang"
+      ],
+      "aliasesZh": [
+        "清汤冬瓜"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "汤羹",
+      "categoryEn": "Chinese soup",
+      "preparationState": "prepared",
+      "finalYieldGrams": 400,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 400,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000060",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000119",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000120",
+          "amount": 3,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "97dc3f89-386f-5bf4-b356-80547b3c0454",
+      "nameZh": "玉米排骨汤",
+      "nameEn": "Corn Pork Soup",
+      "pinyin": [
+        "yu mi pai gu tang",
+        "yumipaigutang"
+      ],
+      "aliasesZh": [
+        "玉米猪肉汤"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "汤羹",
+      "categoryEn": "Chinese soup",
+      "preparationState": "prepared",
+      "finalYieldGrams": 500,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 500,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000028",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000089",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000015",
+          "amount": 60,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "b58bb72f-7366-5cd8-b27b-ee9ce2e6348c",
+      "nameZh": "蔬菜汤",
+      "nameEn": "Vegetable Soup",
+      "pinyin": [
+        "shu cai tang",
+        "shucaitang"
+      ],
+      "aliasesZh": [
+        "什锦蔬菜汤"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "汤羹",
+      "categoryEn": "Chinese soup",
+      "preparationState": "prepared",
+      "finalYieldGrams": 450,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 450,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000067",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000015",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000045",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000049",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "fb706c07-22f8-58ed-b899-8e11ecf8249d",
+      "nameZh": "豆腐汤",
+      "nameEn": "Tofu Soup",
+      "pinyin": [
+        "dou fu tang",
+        "doufutang"
+      ],
+      "aliasesZh": [
+        "清汤豆腐"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "汤羹",
+      "categoryEn": "Chinese soup",
+      "preparationState": "prepared",
+      "finalYieldGrams": 400,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 400,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000009",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000014",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000119",
+          "amount": 8,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "16f4c163-75c8-5289-a280-e7c17832adfe",
+      "nameZh": "蘑菇汤",
+      "nameEn": "Mushroom Soup",
+      "pinyin": [
+        "mo gu tang",
+        "mogutang"
+      ],
+      "aliasesZh": [
+        "香菇汤"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "汤羹",
+      "categoryEn": "Chinese soup",
+      "preparationState": "prepared",
+      "finalYieldGrams": 400,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 400,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000029",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000004",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000049",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "1a135bb0-f44b-50de-9971-d3a20c1c201b",
+      "nameZh": "海带汤",
+      "nameEn": "Kelp Soup",
+      "pinyin": [
+        "hai dai tang",
+        "haidaitang"
+      ],
+      "aliasesZh": [
+        "昆布汤"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "汤羹",
+      "categoryEn": "Chinese soup",
+      "preparationState": "prepared",
+      "finalYieldGrams": 400,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 400,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000059",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000009",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000119",
+          "amount": 8,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "b1313a51-04ea-5947-9ff2-1d9f0bfe9e42",
+      "nameZh": "南瓜汤",
+      "nameEn": "Pumpkin Soup",
+      "pinyin": [
+        "nan gua tang",
+        "nanguatang"
+      ],
+      "aliasesZh": [
+        "奶油南瓜汤"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "汤羹",
+      "categoryEn": "Chinese soup",
+      "preparationState": "prepared",
+      "finalYieldGrams": 400,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 400,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000051",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000004",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "f7397cb8-d3de-5b66-8dba-6db64db81f67",
+      "nameZh": "豌豆汤",
+      "nameEn": "Pea Soup",
+      "pinyin": [
+        "wan dou tang",
+        "wandoutang"
+      ],
+      "aliasesZh": [
+        "青豆汤"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "汤羹",
+      "categoryEn": "Chinese soup",
+      "preparationState": "prepared",
+      "finalYieldGrams": 400,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 400,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000065",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000049",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "1200fc8c-8036-5baa-b181-d1e9abd0a005",
+      "nameZh": "鸡蛋三明治",
+      "nameEn": "Egg Sandwich",
+      "pinyin": [
+        "ji dan san ming zhi",
+        "jidansanmingzhi"
+      ],
+      "aliasesZh": [
+        "鸡蛋吐司三明治"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "早餐",
+      "categoryEn": "Chinese breakfast",
+      "preparationState": "prepared",
+      "finalYieldGrams": 180,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 180,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000021",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000003",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000044",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "59eb5404-b9fa-53da-a1d6-128349c6ab8f",
+      "nameZh": "牛奶燕麦",
+      "nameEn": "Milk Oatmeal",
+      "pinyin": [
+        "niu nai yan mai",
+        "niunaiyanmai"
+      ],
+      "aliasesZh": [
+        "燕麦牛奶",
+        "牛奶麦片"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "早餐",
+      "categoryEn": "Chinese breakfast",
+      "preparationState": "prepared",
+      "finalYieldGrams": 350,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 350,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000010",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000004",
+          "amount": 280,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "359f220c-a404-5348-aa93-fe9e0e80d6f6",
+      "nameZh": "香蕉燕麦",
+      "nameEn": "Banana Oatmeal",
+      "pinyin": [
+        "xiang jiao yan mai",
+        "xiangjiaoyanmai"
+      ],
+      "aliasesZh": [
+        "香蕉麦片"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "早餐",
+      "categoryEn": "Chinese breakfast",
+      "preparationState": "prepared",
+      "finalYieldGrams": 350,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 350,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000010",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000016",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000004",
+          "amount": 180,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "30605cc3-c958-5bdb-807e-32da65c019e1",
+      "nameZh": "蔬菜蛋饼",
+      "nameEn": "Vegetable Egg Pancake",
+      "pinyin": [
+        "shu cai dan bing",
+        "shucaidanbing"
+      ],
+      "aliasesZh": [
+        "鸡蛋蔬菜饼"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "早餐",
+      "categoryEn": "Chinese breakfast",
+      "preparationState": "prepared",
+      "finalYieldGrams": 250,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 250,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000003",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000067",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000015",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000111",
+          "amount": 8,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "b806da5c-01fb-5d0a-9761-25625763b5b7",
+      "nameZh": "豆浆面包",
+      "nameEn": "Soy Milk with Bread",
+      "pinyin": [
+        "dou jiang mian bao",
+        "doujiangmianbao"
+      ],
+      "aliasesZh": [
+        "豆浆吐司"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "早餐",
+      "categoryEn": "Chinese breakfast",
+      "preparationState": "prepared",
+      "finalYieldGrams": 350,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 350,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000024",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000021",
+          "amount": 80,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "7873aeab-1131-56ea-be1b-4cd708105c2c",
+      "nameZh": "酸奶水果杯",
+      "nameEn": "Yogurt Fruit Bowl",
+      "pinyin": [
+        "suan nai shui guo bei",
+        "suannaishuiguobei"
+      ],
+      "aliasesZh": [
+        "水果酸奶"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "早餐",
+      "categoryEn": "Chinese breakfast",
+      "preparationState": "prepared",
+      "finalYieldGrams": 350,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 350,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000005",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000071",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000072",
+          "amount": 60,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "69fc2aee-e6e8-5ecf-8038-0f4e0e4a71eb",
+      "nameZh": "牛奶香蕉杯",
+      "nameEn": "Milk Banana Bowl",
+      "pinyin": [
+        "niu nai xiang jiao bei",
+        "niunaixiangjiaobei"
+      ],
+      "aliasesZh": [
+        "香蕉牛奶"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "早餐",
+      "categoryEn": "Chinese breakfast",
+      "preparationState": "prepared",
+      "finalYieldGrams": 400,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 400,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000004",
+          "amount": 280,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000016",
+          "amount": 120,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "ecde9d43-eb9e-51fc-ae78-c88f768c2302",
+      "nameZh": "花生酱吐司",
+      "nameEn": "Peanut Butter Toast",
+      "pinyin": [
+        "hua sheng jiang tu si",
+        "huashengjiangtusi"
+      ],
+      "aliasesZh": [
+        "花生酱面包"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "早餐",
+      "categoryEn": "Chinese breakfast",
+      "preparationState": "prepared",
+      "finalYieldGrams": 120,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 120,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000021",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000020",
+          "amount": 30,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "e3f33986-b515-54c4-b939-3fb066e1fe6b",
+      "nameZh": "水果燕麦杯",
+      "nameEn": "Fruit Oatmeal Bowl",
+      "pinyin": [
+        "shui guo yan mai bei",
+        "shuiguoyanmaibei"
+      ],
+      "aliasesZh": [
+        "燕麦水果"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "早餐",
+      "categoryEn": "Chinese breakfast",
+      "preparationState": "prepared",
+      "finalYieldGrams": 380,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 380,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000010",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000005",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000072",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000071",
+          "amount": 60,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "e079742a-3858-5135-83ed-64dd2dfb4cff",
+      "nameZh": "鸡蛋牛奶早餐",
+      "nameEn": "Egg and Milk Breakfast",
+      "pinyin": [
+        "ji dan niu nai zao can",
+        "jidanniunaizaocan"
+      ],
+      "aliasesZh": [
+        "鸡蛋牛奶"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "早餐",
+      "categoryEn": "Chinese breakfast",
+      "preparationState": "prepared",
+      "finalYieldGrams": 350,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 350,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000003",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000004",
+          "amount": 240,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000021",
+          "amount": 60,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "42f45667-9464-5e1e-9cf7-7a1143383a75",
+      "nameZh": "凉拌黄瓜",
+      "nameEn": "Cucumber Salad",
+      "pinyin": [
+        "liang ban huang gua",
+        "liangbanhuanggua"
+      ],
+      "aliasesZh": [
+        "拍黄瓜"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "凉菜",
+      "categoryEn": "Chinese cold dish",
+      "preparationState": "prepared",
+      "finalYieldGrams": 250,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 250,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000046",
+          "amount": 220,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000117",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000114",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000120",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "f68196be-83ad-5583-b4da-8277e3c3ccf1",
+      "nameZh": "凉拌木耳",
+      "nameEn": "Wood Ear Mushroom Salad",
+      "pinyin": [
+        "liang ban mu er",
+        "liangbanmuer"
+      ],
+      "aliasesZh": [
+        "凉拌蘑菇"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "凉菜",
+      "categoryEn": "Chinese cold dish",
+      "preparationState": "prepared",
+      "finalYieldGrams": 250,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 250,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000029",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000114",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000120",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000117",
+          "amount": 8,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "cbadd6ac-2d0e-5d25-92f2-708296a04751",
+      "nameZh": "凉拌海带丝",
+      "nameEn": "Kelp Salad",
+      "pinyin": [
+        "liang ban hai dai si",
+        "liangbanhaidaisi"
+      ],
+      "aliasesZh": [
+        "海带丝"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "凉菜",
+      "categoryEn": "Chinese cold dish",
+      "preparationState": "prepared",
+      "finalYieldGrams": 250,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 250,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000059",
+          "amount": 220,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000114",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000120",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000117",
+          "amount": 8,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "0e2377d0-d0ed-5187-9f9b-87f35b344ea5",
+      "nameZh": "凉拌菠菜",
+      "nameEn": "Spinach Salad",
+      "pinyin": [
+        "liang ban bo cai",
+        "liangbanbocai"
+      ],
+      "aliasesZh": [
+        "菠菜凉菜"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "凉菜",
+      "categoryEn": "Chinese cold dish",
+      "preparationState": "prepared",
+      "finalYieldGrams": 250,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 250,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000014",
+          "amount": 220,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000120",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000117",
+          "amount": 8,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "ea7f4f52-553b-5772-b2cc-e2acb89e24e3",
+      "nameZh": "凉拌豆腐",
+      "nameEn": "Tofu Salad",
+      "pinyin": [
+        "liang ban dou fu",
+        "liangbandoufu"
+      ],
+      "aliasesZh": [
+        "小葱拌豆腐"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "凉菜",
+      "categoryEn": "Chinese cold dish",
+      "preparationState": "prepared",
+      "finalYieldGrams": 280,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 280,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000009",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000119",
+          "amount": 12,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000120",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "09ab34af-bf72-5db5-b1e3-8db0c6660d07",
+      "nameZh": "凉拌豆芽",
+      "nameEn": "Bean Sprout Salad",
+      "pinyin": [
+        "liang ban dou ya",
+        "liangbandouya"
+      ],
+      "aliasesZh": [
+        "豆芽凉菜"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "凉菜",
+      "categoryEn": "Chinese cold dish",
+      "preparationState": "prepared",
+      "finalYieldGrams": 250,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 250,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000053",
+          "amount": 220,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000114",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000120",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "07462063-5704-53a6-a997-26cdca53fc62",
+      "nameZh": "凉拌鸡丝",
+      "nameEn": "Chicken Salad",
+      "pinyin": [
+        "liang ban ji si",
+        "liangbanjisi"
+      ],
+      "aliasesZh": [
+        "鸡丝凉菜"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "凉菜",
+      "categoryEn": "Chinese cold dish",
+      "preparationState": "prepared",
+      "finalYieldGrams": 300,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 300,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000006",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000046",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000114",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000120",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "fccf3b4f-ba5d-5d94-ada0-4eb6df09bf55",
+      "nameZh": "凉拌牛肉",
+      "nameEn": "Beef Salad",
+      "pinyin": [
+        "liang ban niu rou",
+        "liangbanniurou"
+      ],
+      "aliasesZh": [
+        "牛肉凉菜"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "凉菜",
+      "categoryEn": "Chinese cold dish",
+      "preparationState": "prepared",
+      "finalYieldGrams": 300,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 300,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000088",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000046",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000112",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000120",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "336a3de0-76b7-5796-86ce-9eb0a0f55deb",
+      "nameZh": "凉拌藕片",
+      "nameEn": "Lotus Root Salad",
+      "pinyin": [
+        "liang ban ou pian",
+        "liangbanoupian"
+      ],
+      "aliasesZh": [
+        "藕片凉菜"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "凉菜",
+      "categoryEn": "Chinese cold dish",
+      "preparationState": "prepared",
+      "finalYieldGrams": 280,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 280,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000052",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000114",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000120",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "b02acc8a-34aa-536d-852b-71de98feeb49",
+      "nameZh": "凉拌西兰花",
+      "nameEn": "Broccoli Salad",
+      "pinyin": [
+        "liang ban xi lan hua",
+        "liangbanxilanhua"
+      ],
+      "aliasesZh": [
+        "西兰花凉菜"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "凉菜",
+      "categoryEn": "Chinese cold dish",
+      "preparationState": "prepared",
+      "finalYieldGrams": 280,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 280,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000013",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000120",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000117",
+          "amount": 8,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "7504d0dc-9221-5967-b217-ed6f437d6928",
+      "nameZh": "冰拿铁",
+      "nameEn": "Iced Latte",
+      "pinyin": [
+        "bing na tie",
+        "bingnatie"
+      ],
+      "aliasesZh": [
+        "冰拿铁咖啡"
+      ],
+      "aliasesEn": [
+        "iced latte"
+      ],
+      "categoryZh": "咖啡奶茶",
+      "categoryEn": "Coffee and milk tea",
+      "preparationState": "prepared",
+      "finalYieldGrams": 350,
+      "servings": [
+        {
+          "label": "1杯",
+          "amount": 350,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000032",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000004",
+          "amount": 240,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000113",
+          "amount": 8,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "abf78fe2-860e-512b-af3a-c69205618ba9",
+      "nameZh": "焦糖拿铁",
+      "nameEn": "Caramel Latte",
+      "pinyin": [
+        "jiao tang na tie",
+        "jiaotangnatie"
+      ],
+      "aliasesZh": [
+        "焦糖拿铁咖啡"
+      ],
+      "aliasesEn": [
+        "caramel latte"
+      ],
+      "categoryZh": "咖啡奶茶",
+      "categoryEn": "Coffee and milk tea",
+      "preparationState": "prepared",
+      "finalYieldGrams": 350,
+      "servings": [
+        {
+          "label": "1杯",
+          "amount": 350,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000032",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000004",
+          "amount": 240,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000113",
+          "amount": 18,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "3e43628b-2fb4-5e1a-91b4-059429ac28e9",
+      "nameZh": "香草拿铁",
+      "nameEn": "Vanilla Latte",
+      "pinyin": [
+        "xiang cao na tie",
+        "xiangcaonatie"
+      ],
+      "aliasesZh": [
+        "香草拿铁咖啡"
+      ],
+      "aliasesEn": [
+        "vanilla latte"
+      ],
+      "categoryZh": "咖啡奶茶",
+      "categoryEn": "Coffee and milk tea",
+      "preparationState": "prepared",
+      "finalYieldGrams": 350,
+      "servings": [
+        {
+          "label": "1杯",
+          "amount": 350,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000032",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000004",
+          "amount": 240,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000113",
+          "amount": 12,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "9c6448d3-53b8-567a-9b1e-d022219966f8",
+      "nameZh": "燕麦拿铁",
+      "nameEn": "Oat Milk Latte",
+      "pinyin": [
+        "yan mai na tie",
+        "yanmainatie"
+      ],
+      "aliasesZh": [
+        "燕麦奶拿铁"
+      ],
+      "aliasesEn": [
+        "oat latte"
+      ],
+      "categoryZh": "咖啡奶茶",
+      "categoryEn": "Coffee and milk tea",
+      "preparationState": "prepared",
+      "finalYieldGrams": 350,
+      "servings": [
+        {
+          "label": "1杯",
+          "amount": 350,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000032",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000010",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000004",
+          "amount": 180,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "fd2e6602-e795-5cfb-bfa1-e55e3fef6d18",
+      "nameZh": "摩卡咖啡饮品",
+      "nameEn": "Cafe Mocha",
+      "pinyin": [
+        "mo ka ka fei",
+        "mokakafei"
+      ],
+      "aliasesZh": [
+        "摩卡咖啡",
+        "摩卡"
+      ],
+      "aliasesEn": [
+        "mocha"
+      ],
+      "categoryZh": "咖啡奶茶",
+      "categoryEn": "Coffee and milk tea",
+      "preparationState": "prepared",
+      "finalYieldGrams": 350,
+      "servings": [
+        {
+          "label": "1杯",
+          "amount": 350,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000032",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000004",
+          "amount": 220,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000113",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000103",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "6c68f092-cf90-5988-9581-3d0815ec6ec1",
+      "nameZh": "卡布奇诺饮品",
+      "nameEn": "Cappuccino",
+      "pinyin": [
+        "ka bu qi nuo",
+        "kabuqinuo"
+      ],
+      "aliasesZh": [
+        "卡布奇诺咖啡"
+      ],
+      "aliasesEn": [
+        "cappuccino"
+      ],
+      "categoryZh": "咖啡奶茶",
+      "categoryEn": "Coffee and milk tea",
+      "preparationState": "prepared",
+      "finalYieldGrams": 300,
+      "servings": [
+        {
+          "label": "1杯",
+          "amount": 300,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000032",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000004",
+          "amount": 220,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "2e09335a-128d-5781-a5d1-a03414390c10",
+      "nameZh": "珍珠奶茶",
+      "nameEn": "Bubble Milk Tea",
+      "pinyin": [
+        "zhen zhu nai cha",
+        "zhenzhunaicha"
+      ],
+      "aliasesZh": [
+        "珍珠奶盖茶",
+        "奶茶"
+      ],
+      "aliasesEn": [
+        "bubble tea"
+      ],
+      "categoryZh": "咖啡奶茶",
+      "categoryEn": "Coffee and milk tea",
+      "preparationState": "prepared",
+      "finalYieldGrams": 500,
+      "servings": [
+        {
+          "label": "1杯",
+          "amount": 500,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000004",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000113",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000023",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "b27ae6af-0b89-57bd-8f05-8bb52c5f75e5",
+      "nameZh": "巧克力奶饮",
+      "nameEn": "Chocolate Milk Drink",
+      "pinyin": [
+        "qiao ke li nai",
+        "qiaokelinai"
+      ],
+      "aliasesZh": [
+        "巧克力牛奶"
+      ],
+      "aliasesEn": [
+        "chocolate milk"
+      ],
+      "categoryZh": "咖啡奶茶",
+      "categoryEn": "Coffee and milk tea",
+      "preparationState": "prepared",
+      "finalYieldGrams": 400,
+      "servings": [
+        {
+          "label": "1杯",
+          "amount": 400,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000004",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000103",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "a96e8e02-d574-5b49-8048-6e853d44e344",
+      "nameZh": "香蕉牛奶饮品",
+      "nameEn": "Banana Milk",
+      "pinyin": [
+        "xiang jiao niu nai",
+        "xiangjiaoniunai"
+      ],
+      "aliasesZh": [
+        "香蕉奶昔"
+      ],
+      "aliasesEn": [
+        "banana milk"
+      ],
+      "categoryZh": "咖啡奶茶",
+      "categoryEn": "Coffee and milk tea",
+      "preparationState": "prepared",
+      "finalYieldGrams": 450,
+      "servings": [
+        {
+          "label": "1杯",
+          "amount": 450,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000004",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000016",
+          "amount": 150,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "293f42a5-e346-5797-ad22-5e926b5bc375",
+      "nameZh": "草莓酸奶饮品",
+      "nameEn": "Strawberry Yogurt Drink",
+      "pinyin": [
+        "cao mei suan nai",
+        "caomeisuannai"
+      ],
+      "aliasesZh": [
+        "草莓酸奶昔"
+      ],
+      "aliasesEn": [
+        "strawberry yogurt drink"
+      ],
+      "categoryZh": "咖啡奶茶",
+      "categoryEn": "Coffee and milk tea",
+      "preparationState": "prepared",
+      "finalYieldGrams": 400,
+      "servings": [
+        {
+          "label": "1杯",
+          "amount": 400,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000005",
+          "amount": 220,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000071",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000004",
+          "amount": 80,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "f1704e1f-9037-5c11-8f2f-98d7b6f144ad",
+      "nameZh": "水果酸奶碗",
+      "nameEn": "Fruit Yogurt Bowl",
+      "pinyin": [
+        "shui guo suan nai wan",
+        "shuiguosuannaiwan"
+      ],
+      "aliasesZh": [
+        "酸奶水果碗"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "甜品",
+      "categoryEn": "Dessert and snack",
+      "preparationState": "prepared",
+      "finalYieldGrams": 350,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 350,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000005",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000016",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000071",
+          "amount": 60,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "7d9020bb-2de0-5805-9bb7-4abdbdd2128c",
+      "nameZh": "芒果奶昔",
+      "nameEn": "Mango Milkshake",
+      "pinyin": [
+        "mang guo nai xi",
+        "mangguonaixi"
+      ],
+      "aliasesZh": [
+        "芒果牛奶"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "甜品",
+      "categoryEn": "Dessert and snack",
+      "preparationState": "prepared",
+      "finalYieldGrams": 400,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 400,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000076",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000004",
+          "amount": 220,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "cababe72-c777-508a-93e2-5ed713343a84",
+      "nameZh": "蓝莓酸奶杯",
+      "nameEn": "Blueberry Yogurt Cup",
+      "pinyin": [
+        "lan mei suan nai bei",
+        "lanmeisuannaibei"
+      ],
+      "aliasesZh": [
+        "蓝莓酸奶"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "甜品",
+      "categoryEn": "Dessert and snack",
+      "preparationState": "prepared",
+      "finalYieldGrams": 300,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 300,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000005",
+          "amount": 220,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000072",
+          "amount": 80,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "850b6594-c180-5e63-9ac7-6359cf19cbbf",
+      "nameZh": "香蕉花生酱吐司",
+      "nameEn": "Banana Peanut Butter Toast",
+      "pinyin": [
+        "xiang jiao hua sheng jiang tu si",
+        "xiangjiaohuashengjiangtusi"
+      ],
+      "aliasesZh": [
+        "香蕉吐司"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "甜品",
+      "categoryEn": "Dessert and snack",
+      "preparationState": "prepared",
+      "finalYieldGrams": 180,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 180,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000021",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000020",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000016",
+          "amount": 80,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "d3ef38e9-e19f-517f-8ec5-858352df93e6",
+      "nameZh": "巧克力香蕉杯",
+      "nameEn": "Chocolate Banana Bowl",
+      "pinyin": [
+        "qiao ke li xiang jiao bei",
+        "qiaokelixiangjiaobei"
+      ],
+      "aliasesZh": [
+        "巧克力香蕉"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "甜品",
+      "categoryEn": "Dessert and snack",
+      "preparationState": "prepared",
+      "finalYieldGrams": 300,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 300,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000016",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000103",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000005",
+          "amount": 120,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "10ac5ddd-cf73-5bb4-94cf-f118788c594d",
+      "nameZh": "草莓冰淇淋杯",
+      "nameEn": "Strawberry Ice Cream Cup",
+      "pinyin": [
+        "cao mei bing qi lin bei",
+        "caomeibingqilinbei"
+      ],
+      "aliasesZh": [
+        "草莓冰淇淋"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "甜品",
+      "categoryEn": "Dessert and snack",
+      "preparationState": "prepared",
+      "finalYieldGrams": 250,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 250,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000107",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000071",
+          "amount": 80,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "7ccdbd93-e762-5e96-a18f-e5f489f30ae0",
+      "nameZh": "巧克力冰淇淋杯",
+      "nameEn": "Chocolate Ice Cream Cup",
+      "pinyin": [
+        "qiao ke li bing qi lin bei",
+        "qiaokelibingqilinbei"
+      ],
+      "aliasesZh": [
+        "巧克力冰淇淋"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "甜品",
+      "categoryEn": "Dessert and snack",
+      "preparationState": "prepared",
+      "finalYieldGrams": 250,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 250,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000107",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000103",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "b19975c9-a47e-5a9c-b200-b5e7dc1f98ce",
+      "nameZh": "水果坚果酸奶",
+      "nameEn": "Fruit Nut Yogurt",
+      "pinyin": [
+        "shui guo jian guo suan nai",
+        "shuiguojianguosuannai"
+      ],
+      "aliasesZh": [
+        "坚果酸奶"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "甜品",
+      "categoryEn": "Dessert and snack",
+      "preparationState": "prepared",
+      "finalYieldGrams": 320,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 320,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000005",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000017",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000101",
+          "amount": 25,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "39bee8f1-2885-5b8b-90d8-9d6dc4f119b0",
+      "nameZh": "燕麦能量杯",
+      "nameEn": "Oat Energy Cup",
+      "pinyin": [
+        "yan mai neng liang bei",
+        "yanmainengliangbei"
+      ],
+      "aliasesZh": [
+        "燕麦杯"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "甜品",
+      "categoryEn": "Dessert and snack",
+      "preparationState": "prepared",
+      "finalYieldGrams": 300,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 300,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000010",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000020",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000016",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    },
+    {
+      "id": "94a9b2fa-333b-5886-9521-402089fb6141",
+      "nameZh": "巧克力牛奶燕麦",
+      "nameEn": "Chocolate Milk Oatmeal",
+      "pinyin": [
+        "qiao ke li niu nai yan mai",
+        "qiaokeliniunaiyanmai"
+      ],
+      "aliasesZh": [
+        "巧克力燕麦"
+      ],
+      "aliasesEn": [],
+      "categoryZh": "甜品",
+      "categoryEn": "Dessert and snack",
+      "preparationState": "prepared",
+      "finalYieldGrams": 350,
+      "servings": [
+        {
+          "label": "1份",
+          "amount": 350,
+          "unit": "g",
+          "approximate": true
+        }
+      ],
+      "ingredients": [
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000010",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "foodUUID": "00000000-0000-0000-0000-000000000105",
+          "amount": 250,
+          "unit": "g"
+        }
+      ],
+      "source": {
+        "title": "NutritionDiary Chinese prepared dish recipe",
+        "license": "Curated internal recipe based on licensed ingredient data",
+        "url": null,
+        "retrievedAt": "2026-10-19T00:00:00Z"
+      }
+    }
+  ]
+}

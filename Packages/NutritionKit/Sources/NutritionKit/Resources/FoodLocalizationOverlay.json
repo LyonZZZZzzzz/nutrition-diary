@@ -1,0 +1,893 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "2026-10-17",
+  "categories": {
+    "主食": "Staples",
+    "乳制品": "Dairy",
+    "其他食材": "Other ingredients",
+    "咖啡与饮品": "Coffee & drinks",
+    "水果": "Fruit",
+    "油脂": "Fats & oils",
+    "混合食品": "Mixed foods",
+    "蔬菜": "Vegetables",
+    "蛋白质": "Protein foods",
+    "调味品": "Condiments",
+    "豆制品": "Soy products",
+    "调味料": "Condiments"
+  },
+  "portionLabels": {
+    "10个": "10 pieces",
+    "10只": "10 pieces",
+    "1两": "1 liang (50 g)",
+    "1个": "1 piece",
+    "1份": "1 serving",
+    "1块": "1 piece",
+    "1大杯": "1 large cup",
+    "1小块": "1 small piece",
+    "1小碗": "1 small bowl",
+    "1排": "1 bar",
+    "1杯": "1 cup",
+    "1根": "1 stalk",
+    "1汤匙": "1 tablespoon",
+    "1片": "1 slice",
+    "1球": "1 scoop",
+    "1碗": "1 bowl",
+    "半个": "Half",
+    "四分之一排": "Quarter bar",
+    "1茶匙": "1 teaspoon",
+    "1瓣": "1 clove"
+  },
+  "sourceTitles": {
+    "USDA FoodData Central / Open Food Facts 公开授权快照": "USDA FoodData Central / Open Food Facts licensed snapshot",
+    "NutritionDiary curated condiment reference": "NutritionDiary curated condiment reference"
+  },
+  "foods": [
+    {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "nameZh": "白米饭",
+      "nameEn": "Cooked white rice",
+      "categoryZh": "主食",
+      "categoryEn": "Staples"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000002",
+      "nameZh": "糙米饭",
+      "nameEn": "Cooked brown rice",
+      "categoryZh": "主食",
+      "categoryEn": "Staples"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000003",
+      "nameZh": "鸡蛋",
+      "nameEn": "Egg",
+      "categoryZh": "蛋白质",
+      "categoryEn": "Protein foods"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000004",
+      "nameZh": "全脂牛奶",
+      "nameEn": "Whole milk",
+      "categoryZh": "乳制品",
+      "categoryEn": "Dairy"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000005",
+      "nameZh": "无糖希腊酸奶",
+      "nameEn": "Plain nonfat Greek yogurt",
+      "categoryZh": "乳制品",
+      "categoryEn": "Dairy"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000006",
+      "nameZh": "鸡胸肉",
+      "nameEn": "Chicken breast",
+      "categoryZh": "蛋白质",
+      "categoryEn": "Protein foods"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000007",
+      "nameZh": "三文鱼",
+      "nameEn": "Salmon",
+      "categoryZh": "蛋白质",
+      "categoryEn": "Protein foods"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000008",
+      "nameZh": "虾仁",
+      "nameEn": "Shrimp",
+      "categoryZh": "蛋白质",
+      "categoryEn": "Protein foods"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000009",
+      "nameZh": "北豆腐",
+      "nameEn": "Firm tofu",
+      "categoryZh": "豆制品",
+      "categoryEn": "Soy products"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000010",
+      "nameZh": "燕麦片",
+      "nameEn": "Rolled oats",
+      "categoryZh": "主食",
+      "categoryEn": "Staples"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000011",
+      "nameZh": "红薯",
+      "nameEn": "Sweet potato",
+      "categoryZh": "主食",
+      "categoryEn": "Staples"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000012",
+      "nameZh": "土豆",
+      "nameEn": "Potato",
+      "categoryZh": "主食",
+      "categoryEn": "Staples"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000013",
+      "nameZh": "西兰花",
+      "nameEn": "Broccoli",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000014",
+      "nameZh": "菠菜",
+      "nameEn": "Spinach",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000015",
+      "nameZh": "胡萝卜",
+      "nameEn": "Carrot",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000016",
+      "nameZh": "香蕉",
+      "nameEn": "Banana",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000017",
+      "nameZh": "苹果",
+      "nameEn": "Apple",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000018",
+      "nameZh": "牛油果",
+      "nameEn": "Avocado",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000019",
+      "nameZh": "橄榄油",
+      "nameEn": "Olive oil",
+      "categoryZh": "油脂",
+      "categoryEn": "Fats & oils"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000020",
+      "nameZh": "花生酱",
+      "nameEn": "Peanut butter",
+      "categoryZh": "调味品",
+      "categoryEn": "Condiments"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000021",
+      "nameZh": "白面包",
+      "nameEn": "White bread",
+      "categoryZh": "主食",
+      "categoryEn": "Staples"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000022",
+      "nameZh": "熟面条",
+      "nameEn": "Cooked noodles",
+      "categoryZh": "主食",
+      "categoryEn": "Staples"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000023",
+      "nameZh": "水饺",
+      "nameEn": "Boiled dumplings",
+      "categoryZh": "主食",
+      "categoryEn": "Staples"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000024",
+      "nameZh": "无糖豆浆",
+      "nameEn": "Unsweetened soy milk",
+      "categoryZh": "豆制品",
+      "categoryEn": "Soy products"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000025",
+      "nameZh": "毛豆",
+      "nameEn": "Edamame",
+      "categoryZh": "豆制品",
+      "categoryEn": "Soy products"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000026",
+      "nameZh": "西瓜",
+      "nameEn": "Watermelon",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000027",
+      "nameZh": "葡萄",
+      "nameEn": "Grapes",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000028",
+      "nameZh": "玉米",
+      "nameEn": "Corn",
+      "categoryZh": "主食",
+      "categoryEn": "Staples"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000029",
+      "nameZh": "蘑菇",
+      "nameEn": "Mushroom",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000030",
+      "nameZh": "橙子",
+      "nameEn": "Orange",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000031",
+      "nameZh": "美式咖啡",
+      "nameEn": "Americano",
+      "categoryZh": "咖啡与饮品",
+      "categoryEn": "Coffee & drinks"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000032",
+      "nameZh": "浓缩咖啡",
+      "nameEn": "Espresso",
+      "categoryZh": "咖啡与饮品",
+      "categoryEn": "Coffee & drinks"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000033",
+      "nameZh": "拿铁咖啡",
+      "nameEn": "Latte",
+      "categoryZh": "咖啡与饮品",
+      "categoryEn": "Coffee & drinks"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000034",
+      "nameZh": "卡布奇诺",
+      "nameEn": "Cappuccino",
+      "categoryZh": "咖啡与饮品",
+      "categoryEn": "Coffee & drinks"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000035",
+      "nameZh": "馥芮白",
+      "nameEn": "Flat white",
+      "categoryZh": "咖啡与饮品",
+      "categoryEn": "Coffee & drinks"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000036",
+      "nameZh": "摩卡咖啡",
+      "nameEn": "Mocha",
+      "categoryZh": "咖啡与饮品",
+      "categoryEn": "Coffee & drinks"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000037",
+      "nameZh": "冷萃咖啡",
+      "nameEn": "Cold brew coffee",
+      "categoryZh": "咖啡与饮品",
+      "categoryEn": "Coffee & drinks"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000038",
+      "nameZh": "无糖冰咖啡",
+      "nameEn": "Unsweetened iced coffee",
+      "categoryZh": "咖啡与饮品",
+      "categoryEn": "Coffee & drinks"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000039",
+      "nameZh": "速溶咖啡",
+      "nameEn": "Instant coffee",
+      "categoryZh": "咖啡与饮品",
+      "categoryEn": "Coffee & drinks"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000040",
+      "nameZh": "咖啡加牛奶",
+      "nameEn": "Coffee with milk",
+      "categoryZh": "咖啡与饮品",
+      "categoryEn": "Coffee & drinks"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000041",
+      "nameZh": "防弹咖啡",
+      "nameEn": "Bulletproof coffee",
+      "categoryZh": "咖啡与饮品",
+      "categoryEn": "Coffee & drinks"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000042",
+      "nameZh": "燕麦拿铁",
+      "nameEn": "Oat latte",
+      "categoryZh": "咖啡与饮品",
+      "categoryEn": "Coffee & drinks"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000043",
+      "nameZh": "大白菜",
+      "nameEn": "Napa cabbage",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000044",
+      "nameZh": "生菜",
+      "nameEn": "Lettuce",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000045",
+      "nameZh": "番茄",
+      "nameEn": "Tomato",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000046",
+      "nameZh": "黄瓜",
+      "nameEn": "Cucumber",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000047",
+      "nameZh": "茄子",
+      "nameEn": "Eggplant",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000048",
+      "nameZh": "彩椒",
+      "nameEn": "Bell pepper",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000049",
+      "nameZh": "洋葱",
+      "nameEn": "Onion",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000050",
+      "nameZh": "芹菜",
+      "nameEn": "Celery",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000051",
+      "nameZh": "南瓜",
+      "nameEn": "Pumpkin",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000052",
+      "nameZh": "莲藕",
+      "nameEn": "Lotus root",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000053",
+      "nameZh": "豆芽",
+      "nameEn": "Bean sprouts",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000054",
+      "nameZh": "花菜",
+      "nameEn": "Cauliflower",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000055",
+      "nameZh": "羽衣甘蓝",
+      "nameEn": "Kale",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000056",
+      "nameZh": "韭菜",
+      "nameEn": "Chinese chives",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000057",
+      "nameZh": "秋葵",
+      "nameEn": "Okra",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000058",
+      "nameZh": "芦笋",
+      "nameEn": "Asparagus",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000059",
+      "nameZh": "海带",
+      "nameEn": "Kelp",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000060",
+      "nameZh": "冬瓜",
+      "nameEn": "Winter melon",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000061",
+      "nameZh": "苦瓜",
+      "nameEn": "Bitter melon",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000062",
+      "nameZh": "西葫芦",
+      "nameEn": "Zucchini",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000063",
+      "nameZh": "甜菜根",
+      "nameEn": "Beetroot",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000064",
+      "nameZh": "山药",
+      "nameEn": "Chinese yam",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000065",
+      "nameZh": "豌豆",
+      "nameEn": "Green peas",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000066",
+      "nameZh": "四季豆",
+      "nameEn": "Green beans",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000067",
+      "nameZh": "卷心菜",
+      "nameEn": "Cabbage",
+      "categoryZh": "蔬菜",
+      "categoryEn": "Vegetables"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000068",
+      "nameZh": "梨",
+      "nameEn": "Pear",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000069",
+      "nameZh": "桃",
+      "nameEn": "Peach",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000070",
+      "nameZh": "李子",
+      "nameEn": "Plum",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000071",
+      "nameZh": "草莓",
+      "nameEn": "Strawberry",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000072",
+      "nameZh": "蓝莓",
+      "nameEn": "Blueberry",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000073",
+      "nameZh": "树莓",
+      "nameEn": "Raspberry",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000074",
+      "nameZh": "樱桃",
+      "nameEn": "Cherry",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000075",
+      "nameZh": "猕猴桃",
+      "nameEn": "Kiwifruit",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000076",
+      "nameZh": "芒果",
+      "nameEn": "Mango",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000077",
+      "nameZh": "菠萝",
+      "nameEn": "Pineapple",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000078",
+      "nameZh": "木瓜",
+      "nameEn": "Papaya",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000079",
+      "nameZh": "火龙果",
+      "nameEn": "Dragon fruit",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000080",
+      "nameZh": "柚子",
+      "nameEn": "Pomelo",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000081",
+      "nameZh": "柠檬",
+      "nameEn": "Lemon",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000082",
+      "nameZh": "青柠",
+      "nameEn": "Lime",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000083",
+      "nameZh": "椰肉",
+      "nameEn": "Coconut meat",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000084",
+      "nameZh": "石榴",
+      "nameEn": "Pomegranate",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000085",
+      "nameZh": "柿子",
+      "nameEn": "Persimmon",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000086",
+      "nameZh": "荔枝",
+      "nameEn": "Lychee",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000087",
+      "nameZh": "龙眼",
+      "nameEn": "Longan",
+      "categoryZh": "水果",
+      "categoryEn": "Fruit"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000088",
+      "nameZh": "牛里脊",
+      "nameEn": "Beef tenderloin",
+      "categoryZh": "其他食材",
+      "categoryEn": "Other ingredients"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000089",
+      "nameZh": "猪里脊",
+      "nameEn": "Pork tenderloin",
+      "categoryZh": "其他食材",
+      "categoryEn": "Other ingredients"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000090",
+      "nameZh": "羊肉",
+      "nameEn": "Lamb",
+      "categoryZh": "其他食材",
+      "categoryEn": "Other ingredients"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000091",
+      "nameZh": "鸭胸肉",
+      "nameEn": "Duck breast",
+      "categoryZh": "其他食材",
+      "categoryEn": "Other ingredients"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000092",
+      "nameZh": "鳕鱼",
+      "nameEn": "Cod",
+      "categoryZh": "其他食材",
+      "categoryEn": "Other ingredients"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000093",
+      "nameZh": "金枪鱼",
+      "nameEn": "Tuna",
+      "categoryZh": "其他食材",
+      "categoryEn": "Other ingredients"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000094",
+      "nameZh": "沙丁鱼",
+      "nameEn": "Sardine",
+      "categoryZh": "其他食材",
+      "categoryEn": "Other ingredients"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000095",
+      "nameZh": "藜麦",
+      "nameEn": "Cooked quinoa",
+      "categoryZh": "其他食材",
+      "categoryEn": "Other ingredients"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000096",
+      "nameZh": "大麦",
+      "nameEn": "Cooked barley",
+      "categoryZh": "其他食材",
+      "categoryEn": "Other ingredients"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000097",
+      "nameZh": "荞麦",
+      "nameEn": "Cooked buckwheat",
+      "categoryZh": "其他食材",
+      "categoryEn": "Other ingredients"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000098",
+      "nameZh": "全麦面包",
+      "nameEn": "Whole wheat bread",
+      "categoryZh": "其他食材",
+      "categoryEn": "Other ingredients"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000099",
+      "nameZh": "农家奶酪",
+      "nameEn": "Cottage cheese",
+      "categoryZh": "其他食材",
+      "categoryEn": "Other ingredients"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000100",
+      "nameZh": "切达奶酪",
+      "nameEn": "Cheddar cheese",
+      "categoryZh": "其他食材",
+      "categoryEn": "Other ingredients"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000101",
+      "nameZh": "杏仁",
+      "nameEn": "Almonds",
+      "categoryZh": "其他食材",
+      "categoryEn": "Other ingredients"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000102",
+      "nameZh": "核桃",
+      "nameEn": "Walnuts",
+      "categoryZh": "其他食材",
+      "categoryEn": "Other ingredients"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000103",
+      "nameZh": "牛奶巧克力",
+      "nameEn": "Milk chocolate",
+      "categoryZh": "混合食品",
+      "categoryEn": "Mixed foods"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000104",
+      "nameZh": "黑巧克力",
+      "nameEn": "Dark chocolate",
+      "categoryZh": "混合食品",
+      "categoryEn": "Mixed foods"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000105",
+      "nameZh": "巧克力奶",
+      "nameEn": "Chocolate milk",
+      "categoryZh": "混合食品",
+      "categoryEn": "Mixed foods"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000106",
+      "nameZh": "珍珠奶茶",
+      "nameEn": "Bubble tea",
+      "categoryZh": "混合食品",
+      "categoryEn": "Mixed foods"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000107",
+      "nameZh": "香草冰淇淋",
+      "nameEn": "Vanilla ice cream",
+      "categoryZh": "混合食品",
+      "categoryEn": "Mixed foods"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000108",
+      "nameZh": "谷物棒",
+      "nameEn": "Granola bar",
+      "categoryZh": "混合食品",
+      "categoryEn": "Mixed foods"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000109",
+      "nameZh": "冰淇淋三明治",
+      "nameEn": "Ice cream sandwich",
+      "categoryZh": "混合食品",
+      "categoryEn": "Mixed foods"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000110",
+      "nameZh": "牛奶巧克力热饮",
+      "nameEn": "Milk chocolate hot drink",
+      "categoryZh": "混合食品",
+      "categoryEn": "Mixed foods"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000111",
+      "nameZh": "植物油",
+      "nameEn": "Vegetable oil",
+      "categoryZh": "调味料",
+      "categoryEn": "Condiments"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000112",
+      "nameZh": "生抽酱油",
+      "nameEn": "Light soy sauce",
+      "categoryZh": "调味料",
+      "categoryEn": "Condiments"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000113",
+      "nameZh": "白砂糖",
+      "nameEn": "White granulated sugar",
+      "categoryZh": "调味料",
+      "categoryEn": "Condiments"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000114",
+      "nameZh": "米醋",
+      "nameEn": "Rice vinegar",
+      "categoryZh": "调味料",
+      "categoryEn": "Condiments"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000115",
+      "nameZh": "料酒",
+      "nameEn": "Shaoxing cooking wine",
+      "categoryZh": "调味料",
+      "categoryEn": "Condiments"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000116",
+      "nameZh": "玉米淀粉",
+      "nameEn": "Cornstarch",
+      "categoryZh": "调味料",
+      "categoryEn": "Condiments"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000117",
+      "nameZh": "大蒜",
+      "nameEn": "Garlic",
+      "categoryZh": "调味料",
+      "categoryEn": "Condiments"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000118",
+      "nameZh": "生姜",
+      "nameEn": "Ginger",
+      "categoryZh": "调味料",
+      "categoryEn": "Condiments"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000119",
+      "nameZh": "葱",
+      "nameEn": "Scallion",
+      "categoryZh": "调味料",
+      "categoryEn": "Condiments"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000120",
+      "nameZh": "芝麻油",
+      "nameEn": "Sesame oil",
+      "categoryZh": "调味料",
+      "categoryEn": "Condiments"
+    },
+    {
+      "id": "00000000-0000-0000-0000-000000000121",
+      "nameZh": "辣椒酱",
+      "nameEn": "Chili sauce",
+      "categoryZh": "调味料",
+      "categoryEn": "Condiments"
+    }
+  ]
+}

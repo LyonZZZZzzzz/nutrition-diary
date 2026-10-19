@@ -1,0 +1,54 @@
+{
+  "appName": "饮食营养记录",
+  "bundleIdentifiers": {
+    "iOS": "com.lyonzhu.NutritionDiary",
+    "macOS": "com.lyonzhu.NutritionDiary.mac"
+  },
+  "version": "1.3.1",
+  "build": 31,
+  "category": "Health & Fitness",
+  "primaryLanguage": "zh-Hans",
+  "supportedLanguages": [
+    "zh-Hans",
+    "en"
+  ],
+  "supportURL": "https://lyonzhu.github.io/nutrition-diary-legal/support.html",
+  "ageRating": {
+    "expected": "12+",
+    "rationale": "Health and fitness tracking with nutrition estimates; no medical advice or unrestricted user-generated content."
+  },
+  "healthKit": {
+    "reads": [
+      "activeEnergyBurned",
+      "basalEnergyBurned",
+      "appleExerciseTime"
+    ],
+    "writes": [
+      "dietary energy and mapped nutrients after confirmation"
+    ],
+    "rawSamplesSyncedToCloudKit": false
+  },
+  "cloudKit": {
+    "container": "iCloud.com.lyonzhu.NutritionDiary",
+    "scope": "private",
+    "zone": "NutritionDiary",
+    "photosSynced": false,
+    "credentialsSynced": false
+  },
+  "screenshots": {
+    "iPhone": [
+      "Docs/app-home.png",
+      "Docs/device-food-search-v0.5.1-b12.png",
+      "Docs/device-health-settings-v0.5.0-b11.png"
+    ],
+    "macOS": [
+      "Docs/app-home.png"
+    ]
+  },
+  "submissionStatus": {
+    "testFlight": "not-run",
+    "appStoreConnect": "not-configured",
+    "productionCloudKitSchema": "not-deployed",
+    "reviewNotes": "Requires owner Apple Developer account, signed archive, and TestFlight acceptance."
+  }
+}

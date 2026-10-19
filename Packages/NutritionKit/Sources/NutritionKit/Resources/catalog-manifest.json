@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 4,
+  "generatedAt": "2026-10-19T04:59:36.798961Z",
+  "recordCount": 13627,
+  "nameZhCount": 13627,
+  "nameEnCount": 13627,
+  "nameZhCuratedCount": 251,
+  "nameZhTaiwanCount": 0,
+  "nameZhMachineCount": 13376,
+  "nameZhMissingCount": 0,
+  "translationCacheVersion": 1,
+  "translationCacheSHA256": "14feb8bfe00db0286ae1d45ce8e06085a53ea00ff49ea1f622f3a3a340498b04",
+  "translationSourceSHA256": "0ac7861a8e75693e4c64c547f9fb033564b76a50776bb44b0e42837f46d23ffa",
+  "preparedDishCount": 120,
+  "database": {
+    "path": "Packages/NutritionKit/Sources/NutritionKit/Resources/Catalog.sqlite",
+    "sha256": "bc28dcd453c08bded409edef5f2226e130d575c89f40999dd2f7cf5be8ae628d",
+    "bytes": 64737280
+  },
+  "sources": [
+    {
+      "name": "seed",
+      "version": "NutritionDiary curated seed",
+      "license": "Curated internal data",
+      "url": ""
+    },
+    {
+      "name": "usda_foundation",
+      "version": "2026-04-30",
+      "license": "Public Domain",
+      "url": "https://fdc.nal.usda.gov/"
+    },
+    {
+      "name": "usda_sr_legacy",
+      "version": "2018-04",
+      "license": "Public Domain",
+      "url": "https://fdc.nal.usda.gov/"
+    },
+    {
+      "name": "usda_fndds",
+      "version": "2021-2023",
+      "license": "Public Domain",
+      "url": "https://fdc.nal.usda.gov/"
+    },
+    {
+      "name": "prepared_overlay",
+      "version": "2026-10-19-v1",
+      "license": "Curated internal data",
+      "url": ""
+    },
+    {
+      "name": "taiwan_fda",
+      "version": "not included as reference; local translation cache provides full coverage",
+      "license": "Open Government Data License v1.0",
+      "url": "https://data.gov.tw/dataset/8543"
+    }
+  ]
+}
